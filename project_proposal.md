@@ -16,6 +16,5 @@ For this purpose, we reference a dataset crawled by Derek Lim and Professor Aust
 
 Votes are the Genius community’s way of determining whether an annotation is helpful, insightful, interesting, etc. Identifying what makes a “good”  annotation can be useful in helping Genius staff editors more efficiently prune submissions to be included in the official Genius lyrical breakdown. Additionally, this can be integrated into Genius’ system of “penalty-boxing” which suspends a contributor’s activity if they consistently have inaccurate annotations. 	
 
-Thank you,
-
+Thank you,  
 Geniuses 4 Genius
