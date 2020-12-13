@@ -1,0 +1,3144 @@
+STNAME,CTYNAME,Majority_White,Percent_White
+Alabama,Autauga County,True,0.7848110386569154
+Alabama,Baldwin County,True,0.8732952460820798
+Alabama,Barbour County,True,0.5049446711517959
+Alabama,Bibb County,True,0.7624463424348364
+Alabama,Blount County,True,0.9619721232663507
+Alabama,Bullock County,False,0.2719113996562918
+Alabama,Butler County,True,0.5442950706652878
+Alabama,Calhoun County,True,0.7602731550948029
+Alabama,Chambers County,True,0.5893612024424613
+Alabama,Cherokee County,True,0.9315168517735675
+Alabama,Chilton County,True,0.8768342499828842
+Alabama,Choctaw County,True,0.5593046284750238
+Alabama,Clarke County,True,0.542983188267557
+Alabama,Clay County,True,0.8311127651656122
+Alabama,Cleburne County,True,0.9461299892125135
+Alabama,Coffee County,True,0.7681846562085382
+Alabama,Colbert County,True,0.8099033905153731
+Alabama,Conecuh County,True,0.5192974347122717
+Alabama,Coosa County,True,0.6709830384825826
+Alabama,Covington County,True,0.8464760901067053
+Alabama,Crenshaw County,True,0.7162536391393879
+Alabama,Cullman County,True,0.9644579811039284
+Alabama,Dale County,True,0.752081516136706
+Alabama,Dallas County,False,0.29005692422545726
+Alabama,DeKalb County,True,0.9244794597636466
+Alabama,Elmore County,True,0.7626660382740701
+Alabama,Escambia County,True,0.6245459809443596
+Alabama,Etowah County,True,0.8143152732010116
+Alabama,Fayette County,True,0.8658069834540423
+Alabama,Franklin County,True,0.9232077075658827
+Alabama,Geneva County,True,0.8726746128996324
+Alabama,Greene County,False,0.18589454709328526
+Alabama,Hale County,False,0.4068105016896283
+Alabama,Henry County,True,0.698790999016602
+Alabama,Houston County,True,0.7043093944024293
+Alabama,Jackson County,True,0.9186140817442804
+Alabama,Jefferson County,True,0.5433910749701898
+Alabama,Lamar County,True,0.8703976435935199
+Alabama,Lauderdale County,True,0.8715718268461887
+Alabama,Lawrence County,True,0.7805721378332052
+Alabama,Lee County,True,0.7199521924254874
+Alabama,Limestone County,True,0.8269331690510416
+Alabama,Lowndes County,False,0.25375333885972184
+Alabama,Macon County,False,0.1672753834915997
+Alabama,Madison County,True,0.6969015972950915
+Alabama,Marengo County,False,0.4727709426008529
+Alabama,Marion County,True,0.9437464965212516
+Alabama,Marshall County,True,0.9419473284375791
+Alabama,Mobile County,True,0.6047818986509992
+Alabama,Monroe County,True,0.5542872312184762
+Alabama,Montgomery County,False,0.40187878287544154
+Alabama,Morgan County,True,0.8385315004775946
+Alabama,Perry County,False,0.30773008545329533
+Alabama,Pickens County,True,0.5689255346560165
+Alabama,Pike County,True,0.5872159604604906
+Alabama,Randolph County,True,0.7806394707828005
+Alabama,Russell County,True,0.5411449325492909
+Alabama,St. Clair County,True,0.886446026960123
+Alabama,Shelby County,True,0.8473581797642094
+Alabama,Sumter County,False,0.24711402398152976
+Alabama,Talladega County,True,0.6568087864778259
+Alabama,Tallapoosa County,True,0.711863583365721
+Alabama,Tuscaloosa County,True,0.6694495357409012
+Alabama,Walker County,True,0.9170202805756482
+Alabama,Washington County,True,0.6646794084984511
+Alabama,Wilcox County,False,0.2743417023882425
+Alabama,Winston County,True,0.9662352745976439
+Alaska,Aleutians East Borough,False,0.2432774438468839
+Alaska,Aleutians West Census Area,False,0.4103118802956553
+Alaska,Anchorage Municipality,True,0.6696594219885469
+Alaska,Bethel Census Area,False,0.12363349487208385
+Alaska,Bristol Bay Borough,False,0.4783047426841574
+Alaska,Denali Borough,True,0.8992
+Alaska,Dillingham Census Area,False,0.18692888359157728
+Alaska,Fairbanks North Star Borough,True,0.7772558640497846
+Alaska,Haines Borough,True,0.8322884012539185
+Alaska,Hoonah-Angoon Census Area,False,0.4903710662282762
+Alaska,Juneau City and Borough,True,0.7060142523651555
+Alaska,Kenai Peninsula Borough,True,0.849244288224956
+Alaska,Ketchikan Gateway Borough,True,0.6776253719428115
+Alaska,Kodiak Island Borough,True,0.5759533675117635
+Alaska,Lake and Peninsula Borough,False,0.23155985489721886
+Alaska,Matanuska-Susitna Borough,True,0.8484109661964333
+Alaska,Nome Census Area,False,0.1761976802824004
+Alaska,North Slope Borough,False,0.3414912371668568
+Alaska,Northwest Arctic Borough,False,0.12099871959026888
+Alaska,Petersburg Census Area,True,0.7096774193548387
+Alaska,Prince of Wales-Hyder Census Area,False,0.4978264649626152
+Alaska,Sitka City and Borough,True,0.6705726287862038
+Alaska,Skagway Municipality,True,0.9103232533889468
+Alaska,Southeast Fairbanks Census Area,True,0.8078107502799552
+Alaska,Valdez-Cordova Census Area,True,0.7376762375218688
+Alaska,Wade Hampton Census Area,False,0.04097835830452042
+Alaska,Wrangell City and Borough,True,0.7253433208489388
+Alaska,Yakutat City and Borough,False,0.40119760479041916
+Alaska,Yukon-Koyukuk Census Area,False,0.22842287694974003
+Arizona,Apache County,False,0.23821299269075757
+Arizona,Cochise County,True,0.879504572709103
+Arizona,Coconino County,True,0.6665857908551515
+Arizona,Gila County,True,0.8140712027698329
+Arizona,Graham County,True,0.813208253153731
+Arizona,Greenlee County,True,0.9231992728925245
+Arizona,La Paz County,True,0.7816182633992407
+Arizona,Maricopa County,True,0.8501002874305997
+Arizona,Mohave County,True,0.9242477893515103
+Arizona,Navajo County,True,0.5191980876613069
+Arizona,Pima County,True,0.8602681999286573
+Arizona,Pinal County,True,0.8331780104036245
+Arizona,Santa Cruz County,True,0.966090945605987
+Arizona,Yavapai County,True,0.9403584512573071
+Arizona,Yuma County,True,0.9164441911389747
+Arkansas,Arkansas County,True,0.7290387465593903
+Arkansas,Ashley County,True,0.718500278758595
+Arkansas,Baxter County,True,0.9713018904696941
+Arkansas,Benton County,True,0.9043518693922538
+Arkansas,Boone County,True,0.9661639028049401
+Arkansas,Bradley County,True,0.6875493550934456
+Arkansas,Calhoun County,True,0.7571132466553608
+Arkansas,Carroll County,True,0.952698297718218
+Arkansas,Chicot County,False,0.4334820257150354
+Arkansas,Clark County,True,0.7360045343564702
+Arkansas,Clay County,True,0.9784493751593981
+Arkansas,Cleburne County,True,0.9717141971481711
+Arkansas,Cleveland County,True,0.8651906804219311
+Arkansas,Columbia County,True,0.6129612225718138
+Arkansas,Conway County,True,0.8539953962512331
+Arkansas,Craighead County,True,0.8297588609816012
+Arkansas,Crawford County,True,0.9174926548929713
+Arkansas,Crittenden County,False,0.4661042362207873
+Arkansas,Cross County,True,0.7499858621274671
+Arkansas,Dallas County,True,0.5572805809440341
+Arkansas,Desha County,False,0.49645277002789956
+Arkansas,Drew County,True,0.6958864642799979
+Arkansas,Faulkner County,True,0.8531389001213101
+Arkansas,Franklin County,True,0.9539484621778886
+Arkansas,Fulton County,True,0.9692320181847702
+Arkansas,Garland County,True,0.8797354055086014
+Arkansas,Grant County,True,0.9540197931724674
+Arkansas,Greene County,True,0.9710400111206358
+Arkansas,Hempstead County,True,0.6743396057748179
+Arkansas,Hot Spring County,True,0.8598251182847219
+Arkansas,Howard County,True,0.7568256279577721
+Arkansas,Independence County,True,0.9466306549628629
+Arkansas,Izard County,True,0.9593290782247291
+Arkansas,Jackson County,True,0.8032954545454546
+Arkansas,Jefferson County,False,0.41966998113030796
+Arkansas,Johnson County,True,0.941816918265704
+Arkansas,Lafayette County,True,0.6070901033973413
+Arkansas,Lawrence County,True,0.9743710322125558
+Arkansas,Lee County,False,0.427858261550509
+Arkansas,Lincoln County,True,0.6798808595135096
+Arkansas,Little River County,True,0.7588048610573573
+Arkansas,Logan County,True,0.938406950825638
+Arkansas,Lonoke County,True,0.9068285628373831
+Arkansas,Madison County,True,0.959028443592202
+Arkansas,Marion County,True,0.9689159826170932
+Arkansas,Miller County,True,0.7254434615208324
+Arkansas,Mississippi County,True,0.6332031078530355
+Arkansas,Monroe County,True,0.5651507409299948
+Arkansas,Montgomery County,True,0.9554603854389722
+Arkansas,Nevada County,True,0.6652100840336135
+Arkansas,Newton County,True,0.959312391788276
+Arkansas,Ouachita County,True,0.5722554733028823
+Arkansas,Perry County,True,0.9540574523648322
+Arkansas,Phillips County,False,0.35854503464203236
+Arkansas,Pike County,True,0.9359829287810083
+Arkansas,Poinsett County,True,0.9043896819846134
+Arkansas,Polk County,True,0.9488544770651165
+Arkansas,Pope County,True,0.9272843145064925
+Arkansas,Prairie County,True,0.8615511941357294
+Arkansas,Pulaski County,True,0.5969127375286989
+Arkansas,Randolph County,True,0.9706636921360847
+Arkansas,St. Francis County,False,0.44996051403546555
+Arkansas,Saline County,True,0.9151146676203675
+Arkansas,Scott County,True,0.9113533151680291
+Arkansas,Searcy County,True,0.9586611714749594
+Arkansas,Sebastian County,True,0.8336580154590586
+Arkansas,Sevier County,True,0.8946265354834954
+Arkansas,Sharp County,True,0.961827137328486
+Arkansas,Stone County,True,0.9700702835031193
+Arkansas,Union County,True,0.6449457997895612
+Arkansas,Van Buren County,True,0.9640046975924839
+Arkansas,Washington County,True,0.8817895000733169
+Arkansas,White County,True,0.9259551807167518
+Arkansas,Woodruff County,True,0.7030985915492958
+Arkansas,Yell County,True,0.9425952945467809
+California,Alameda County,True,0.5232517752392714
+California,Alpine County,True,0.7316209034543845
+California,Amador County,True,0.9091940056703118
+California,Butte County,True,0.8703523984490316
+California,Calaveras County,True,0.9217066738187832
+California,Colusa County,True,0.9179393769557704
+California,Contra Costa County,True,0.6825380211319594
+California,Del Norte County,True,0.7909508660303994
+California,El Dorado County,True,0.9038995131839102
+California,Fresno County,True,0.774709224122925
+California,Glenn County,True,0.9019362675050014
+California,Humboldt County,True,0.8445489404941147
+California,Imperial County,True,0.894703528720302
+California,Inyo County,True,0.8184374155177074
+California,Kern County,True,0.8295209529082249
+California,Kings County,True,0.8139716180862028
+California,Lake County,True,0.8809840113780223
+California,Lassen County,True,0.8145760294729336
+California,Los Angeles County,True,0.7159048535505469
+California,Madera County,True,0.8635181121812138
+California,Marin County,True,0.8626542064834087
+California,Mariposa County,True,0.9056688075956437
+California,Mendocino County,True,0.8686576382852176
+California,Merced County,True,0.8185356741198223
+California,Modoc County,True,0.8893534898681248
+California,Mono County,True,0.9225676052411486
+California,Monterey County,True,0.8241947502354943
+California,Napa County,True,0.8563774317666942
+California,Nevada County,True,0.9395271232653726
+California,Orange County,True,0.7445338904616372
+California,Placer County,True,0.8668968873209062
+California,Plumas County,True,0.9129852054229599
+California,Riverside County,True,0.8083536415778856
+California,Sacramento County,True,0.6530641236145122
+California,San Benito County,True,0.8871738977568385
+California,San Bernardino County,True,0.7761379475360025
+California,San Diego County,True,0.7670386139651622
+California,San Francisco County,True,0.5429120810594493
+California,San Joaquin County,True,0.684101609423124
+California,San Luis Obispo County,True,0.8918283576658272
+California,San Mateo County,True,0.6379777928368441
+California,Santa Barbara County,True,0.8614814179279257
+California,Santa Clara County,True,0.5762463646337641
+California,Santa Cruz County,True,0.8800191921312261
+California,Shasta County,True,0.8890562530097544
+California,Sierra County,True,0.9478289047310434
+California,Siskiyou County,True,0.8768401503827513
+California,Solano County,True,0.6060980565979889
+California,Sonoma County,True,0.8768637066948065
+California,Stanislaus County,True,0.8444739192603014
+California,Sutter County,True,0.7473532445117973
+California,Tehama County,True,0.9126896508216888
+California,Trinity County,True,0.8883631524471388
+California,Tulare County,True,0.8839188719779989
+California,Tuolumne County,True,0.9107354466005037
+California,Ventura County,True,0.8518327569645722
+California,Yolo County,True,0.7618632359713499
+California,Yuba County,True,0.7965060472259551
+Colorado,Adams County,True,0.8742792614415207
+Colorado,Alamosa County,True,0.8872306167946495
+Colorado,Arapahoe County,True,0.7910606401520621
+Colorado,Archuleta County,True,0.935956917978459
+Colorado,Baca County,True,0.9570781125033324
+Colorado,Bent County,True,0.874415381950459
+Colorado,Boulder County,True,0.9124519353591992
+Colorado,Broomfield County,True,0.8898933068029778
+Colorado,Chaffee County,True,0.9478787878787879
+Colorado,Cheyenne County,True,0.9690501600853789
+Colorado,Clear Creek County,True,0.9575670285840904
+Colorado,Conejos County,True,0.9323262839879154
+Colorado,Costilla County,True,0.8951029493600445
+Colorado,Crowley County,True,0.8482758620689655
+Colorado,Custer County,True,0.9628147799482231
+Colorado,Delta County,True,0.9539629337539433
+Colorado,Denver County,True,0.8060936674733747
+Colorado,Dolores County,True,0.9378134403209629
+Colorado,Douglas County,True,0.9189175594788994
+Colorado,Eagle County,True,0.9536183830049736
+Colorado,Elbert County,True,0.9595860240345551
+Colorado,El Paso County,True,0.8407508015951278
+Colorado,Fremont County,True,0.9189535778404719
+Colorado,Garfield County,True,0.9438659947676155
+Colorado,Gilpin County,True,0.9479147696230195
+Colorado,Grand County,True,0.9601268052131032
+Colorado,Gunnison County,True,0.9477867528271405
+Colorado,Hinsdale County,True,0.9604938271604938
+Colorado,Huerfano County,True,0.9016070345664039
+Colorado,Jackson County,True,0.9658753709198813
+Colorado,Jefferson County,True,0.9238885282695037
+Colorado,Kiowa County,True,0.9702216066481995
+Colorado,Kit Carson County,True,0.9476155176674079
+Colorado,Lake County,True,0.9426274189152357
+Colorado,La Plata County,True,0.8966813610427282
+Colorado,Larimer County,True,0.9354465726423329
+Colorado,Las Animas County,True,0.9175644028103045
+Colorado,Lincoln County,True,0.9103245919677242
+Colorado,Logan County,True,0.9219654456276788
+Colorado,Mesa County,True,0.9439694821708782
+Colorado,Mineral County,True,0.9788434414668548
+Colorado,Moffat County,True,0.9591666666666666
+Colorado,Montezuma County,True,0.8415319885179505
+Colorado,Montrose County,True,0.9468631062001228
+Colorado,Morgan County,True,0.928280415847148
+Colorado,Otero County,True,0.9207936677719543
+Colorado,Ouray County,True,0.9713024282560706
+Colorado,Park County,True,0.953147420300705
+Colorado,Phillips County,True,0.9686283489809938
+Colorado,Pitkin County,True,0.9614783062040202
+Colorado,Prowers County,True,0.9573008313826782
+Colorado,Pueblo County,True,0.9108621590033074
+Colorado,Rio Blanco County,True,0.9359778328715181
+Colorado,Rio Grande County,True,0.9397973708448464
+Colorado,Routt County,True,0.9669152309934002
+Colorado,Saguache County,True,0.9321065989847716
+Colorado,San Juan County,True,0.9608695652173913
+Colorado,San Miguel County,True,0.9584432717678101
+Colorado,Sedgwick County,True,0.9597146454049518
+Colorado,Summit County,True,0.9605263157894737
+Colorado,Teller County,True,0.9512591389114541
+Colorado,Washington County,True,0.9718841796055392
+Colorado,Weld County,True,0.9339681672867106
+Colorado,Yuma County,True,0.9746022334222749
+Connecticut,Fairfield County,True,0.8055973485680018
+Connecticut,Hartford County,True,0.7775447223154073
+Connecticut,Litchfield County,True,0.9479070015464193
+Connecticut,Middlesex County,True,0.8998502433545489
+Connecticut,New Haven County,True,0.7958827694993006
+Connecticut,New London County,True,0.8456395666921983
+Connecticut,Tolland County,True,0.9080500729185226
+Connecticut,Windham County,True,0.9307136965450387
+Delaware,Kent County,True,0.6884254232636942
+Delaware,New Castle County,True,0.67993282986251
+Delaware,Sussex County,True,0.8243227297310586
+District of Columbia,District of Columbia,False,0.4290892471094678
+Florida,Alachua County,True,0.7126248423933147
+Florida,Baker County,True,0.8410987225873144
+Florida,Bay County,True,0.828961681878734
+Florida,Bradford County,True,0.7807312654811638
+Florida,Brevard County,True,0.8424942491142996
+Florida,Broward County,True,0.6608437820395926
+Florida,Calhoun County,True,0.8221829790124295
+Florida,Charlotte County,True,0.9079341824203289
+Florida,Citrus County,True,0.9360361653272101
+Florida,Clay County,True,0.8317116468136562
+Florida,Collier County,True,0.8996922632638144
+Florida,Columbia County,True,0.7805814672041903
+Florida,DeSoto County,True,0.8342359990781286
+Florida,Dixie County,True,0.8891851668113605
+Florida,Duval County,True,0.6253453266363651
+Florida,Escambia County,True,0.7011974959945824
+Florida,Flagler County,True,0.8394656310047885
+Florida,Franklin County,True,0.8308232072565463
+Florida,Gadsden County,False,0.4247120013755158
+Florida,Gilchrist County,True,0.9194171870353851
+Florida,Glades County,True,0.7995727473868925
+Florida,Gulf County,True,0.7818424735971498
+Florida,Hamilton County,True,0.6239461517541474
+Florida,Hardee County,True,0.8865304935669114
+Florida,Hendry County,True,0.8196651267124202
+Florida,Hernando County,True,0.9102766661669223
+Florida,Highlands County,True,0.8604068155878036
+Florida,Hillsborough County,True,0.7581702466687432
+Florida,Holmes County,True,0.9002726721874369
+Florida,Indian River County,True,0.8758812523565275
+Florida,Jackson County,True,0.6979251756248979
+Florida,Jefferson County,True,0.6165123456790124
+Florida,Lafayette County,True,0.8240572467060427
+Florida,Lake County,True,0.8496896294683791
+Florida,Lee County,True,0.8733288599132487
+Florida,Leon County,True,0.633110029636782
+Florida,Levy County,True,0.8726545908806995
+Florida,Liberty County,True,0.7771870468825519
+Florida,Madison County,True,0.5849685301740096
+Florida,Manatee County,True,0.866278321029066
+Florida,Marion County,True,0.8324267064528161
+Florida,Martin County,True,0.9058642493801111
+Florida,Miami-Dade County,True,0.7758999781940421
+Florida,Monroe County,True,0.9018567284684997
+Florida,Nassau County,True,0.9040721435366948
+Florida,Okaloosa County,True,0.8231141133083969
+Florida,Okeechobee County,True,0.8720449996199356
+Florida,Orange County,True,0.6976936270310106
+Florida,Osceola County,True,0.8046942411000083
+Florida,Palm Beach County,True,0.768782458377717
+Florida,Pasco County,True,0.9012991319986989
+Florida,Pinellas County,True,0.8362640952807876
+Florida,Polk County,True,0.8002216963830706
+Florida,Putnam County,True,0.8035570478959365
+Florida,St. Johns County,True,0.8988466179990899
+Florida,St. Lucie County,True,0.7576497361431098
+Florida,Santa Rosa County,True,0.8751072474008277
+Florida,Sarasota County,True,0.9184300279427264
+Florida,Seminole County,True,0.814401236659719
+Florida,Sumter County,True,0.8893623302499508
+Florida,Suwannee County,True,0.8383727322704783
+Florida,Taylor County,True,0.7581779810059796
+Florida,Union County,True,0.7528267157507231
+Florida,Volusia County,True,0.8497756313512426
+Florida,Wakulla County,True,0.8222142903497955
+Florida,Walton County,True,0.8956965718453683
+Florida,Washington County,True,0.8034308211473565
+Georgia,Appling County,True,0.7804878048780488
+Georgia,Atkinson County,True,0.7766779333655239
+Georgia,Bacon County,True,0.8171101982496874
+Georgia,Baker County,True,0.5151515151515151
+Georgia,Baldwin County,True,0.5555891043198826
+Georgia,Banks County,True,0.9436012229744486
+Georgia,Barrow County,True,0.8241673673559549
+Georgia,Bartow County,True,0.861565054986539
+Georgia,Ben Hill County,True,0.6213935454441784
+Georgia,Berrien County,True,0.8661834987658211
+Georgia,Bibb County,False,0.4351344096330099
+Georgia,Bleckley County,True,0.7150158754743282
+Georgia,Brantley County,True,0.9465217625221929
+Georgia,Brooks County,True,0.6330584950983574
+Georgia,Bryan County,True,0.8012975724840131
+Georgia,Bulloch County,True,0.6700002751258701
+Georgia,Burke County,False,0.48864864864864865
+Georgia,Butts County,True,0.698860737969733
+Georgia,Calhoun County,False,0.3600861008610086
+Georgia,Camden County,True,0.7546982607680635
+Georgia,Candler County,True,0.7251056939821895
+Georgia,Carroll County,True,0.7802383939774153
+Georgia,Catoosa County,True,0.9410109768471543
+Georgia,Charlton County,True,0.6525009402030839
+Georgia,Chatham County,True,0.5471396427356983
+Georgia,Chattahoochee County,True,0.7231725090128097
+Georgia,Chattooga County,True,0.8594363459669582
+Georgia,Cherokee County,True,0.8958181777105031
+Georgia,Clarke County,True,0.6630136530690303
+Georgia,Clay County,False,0.3870346598202824
+Georgia,Clayton County,False,0.25098537730172105
+Georgia,Clinch County,True,0.6967847573682644
+Georgia,Cobb County,True,0.6613658787575518
+Georgia,Coffee County,True,0.6977993977299051
+Georgia,Colquitt County,True,0.7337711598066627
+Georgia,Columbia County,True,0.7668715385141346
+Georgia,Cook County,True,0.7008804585475389
+Georgia,Coweta County,True,0.7809194296145239
+Georgia,Crawford County,True,0.7548412698412699
+Georgia,Crisp County,True,0.5381259001948657
+Georgia,Dade County,True,0.9597331716191632
+Georgia,Dawson County,True,0.9669075015609669
+Georgia,Decatur County,True,0.5593078628812389
+Georgia,DeKalb County,False,0.37368563221885787
+Georgia,Dodge County,True,0.6797787050494631
+Georgia,Dooly County,False,0.49217767844671045
+Georgia,Dougherty County,False,0.29953122189183184
+Georgia,Douglas County,True,0.5445954721544215
+Georgia,Early County,False,0.49358127241835004
+Georgia,Echols County,True,0.8916750250752257
+Georgia,Effingham County,True,0.8316101551798548
+Georgia,Elbert County,True,0.682076813655761
+Georgia,Emanuel County,True,0.6383963664948904
+Georgia,Evans County,True,0.6678828702404341
+Georgia,Fannin County,True,0.9750979056700153
+Georgia,Fayette County,True,0.7247219225475243
+Georgia,Floyd County,True,0.8107967601401582
+Georgia,Forsyth County,True,0.8753405559576007
+Georgia,Franklin County,True,0.882433543436558
+Georgia,Fulton County,False,0.4702911616499944
+Georgia,Gilmer County,True,0.9669031571479247
+Georgia,Glascock County,True,0.8949713558243158
+Georgia,Glynn County,True,0.6973661474661204
+Georgia,Gordon County,True,0.9230893375892121
+Georgia,Grady County,True,0.6793238993710692
+Georgia,Greene County,True,0.6095575441213025
+Georgia,Gwinnett County,True,0.6013412568909537
+Georgia,Habersham County,True,0.907766544117647
+Georgia,Hall County,True,0.8751132588341891
+Georgia,Hancock County,False,0.24966651845264562
+Georgia,Haralson County,True,0.9293661971830985
+Georgia,Harris County,True,0.7975729646697388
+Georgia,Hart County,True,0.7864252684379653
+Georgia,Heard County,True,0.8662425857474426
+Georgia,Henry County,True,0.5570118582369065
+Georgia,Houston County,True,0.6470616412109268
+Georgia,Irwin County,True,0.7047916666666667
+Georgia,Jackson County,True,0.8926218817585974
+Georgia,Jasper County,True,0.7517241379310344
+Georgia,Jeff Davis County,True,0.8258775402480866
+Georgia,Jefferson County,False,0.4441333982473223
+Georgia,Jenkins County,True,0.5457505698469554
+Georgia,Johnson County,True,0.637566939476609
+Georgia,Jones County,True,0.7352066347062323
+Georgia,Lamar County,True,0.6667774270366063
+Georgia,Lanier County,True,0.7127884615384615
+Georgia,Laurens County,True,0.6157032534709935
+Georgia,Lee County,True,0.7620538509705698
+Georgia,Liberty County,True,0.5108368590673733
+Georgia,Lincoln County,True,0.6609797078971178
+Georgia,Long County,True,0.6843843469591226
+Georgia,Lowndes County,True,0.589138557161813
+Georgia,Lumpkin County,True,0.9533174349090197
+Georgia,McDuffie County,True,0.5714813276092877
+Georgia,McIntosh County,True,0.6244670857720933
+Georgia,Macon County,False,0.3706092687372923
+Georgia,Madison County,True,0.8882601532841486
+Georgia,Marion County,True,0.6345999311215704
+Georgia,Meriwether County,True,0.5898556856108682
+Georgia,Miller County,True,0.6947562405763109
+Georgia,Mitchell County,False,0.498487729001037
+Georgia,Monroe County,True,0.7441904118331644
+Georgia,Montgomery County,True,0.7177156961741277
+Georgia,Morgan County,True,0.7387729992729714
+Georgia,Murray County,True,0.9601949634443542
+Georgia,Muscogee County,False,0.48275062621904813
+Georgia,Newton County,True,0.5485739618737994
+Georgia,Oconee County,True,0.8981230851601772
+Georgia,Oglethorpe County,True,0.7995621836092489
+Georgia,Paulding County,True,0.7906146408839779
+Georgia,Peach County,True,0.5142277894431975
+Georgia,Pickens County,True,0.966379663796638
+Georgia,Pierce County,True,0.8850031840373593
+Georgia,Pike County,True,0.872599663110612
+Georgia,Polk County,True,0.8386666019228901
+Georgia,Pulaski County,True,0.662457337883959
+Georgia,Putnam County,True,0.7078026228889518
+Georgia,Quitman County,False,0.4937603993344426
+Georgia,Rabun County,True,0.9543474259066086
+Georgia,Randolph County,False,0.3840589600109185
+Georgia,Richmond County,False,0.402908380103363
+Georgia,Rockdale County,False,0.47429503612211604
+Georgia,Schley County,True,0.7633266533066132
+Georgia,Screven County,True,0.5540064779608506
+Georgia,Seminole County,True,0.647926679333855
+Georgia,Spalding County,True,0.6374540045408283
+Georgia,Stephens County,True,0.8557413773125797
+Georgia,Stewart County,False,0.46739490235021514
+Georgia,Sumter County,False,0.4453951955378082
+Georgia,Talbot County,False,0.40064446831364126
+Georgia,Taliaferro County,False,0.381547619047619
+Georgia,Tattnall County,True,0.6817680428616452
+Georgia,Taylor County,True,0.5970308788598575
+Georgia,Telfair County,True,0.6170407976022998
+Georgia,Terrell County,False,0.37158651188501934
+Georgia,Thomas County,True,0.6013326178338252
+Georgia,Tift County,True,0.6576076368595364
+Georgia,Toombs County,True,0.7173347977301848
+Georgia,Towns County,True,0.9757979990471654
+Georgia,Treutlen County,True,0.6572610429901019
+Georgia,Troup County,True,0.6204358240345855
+Georgia,Turner County,True,0.5781212841854935
+Georgia,Twiggs County,True,0.5667100745826921
+Georgia,Union County,True,0.9727751619971097
+Georgia,Upson County,True,0.6961321817499061
+Georgia,Walker County,True,0.93398831027697
+Georgia,Walton County,True,0.80724800472953
+Georgia,Ware County,True,0.6746042824041764
+Georgia,Warren County,False,0.3804230907135174
+Georgia,Washington County,False,0.45643948464964795
+Georgia,Wayne County,True,0.7629434086784359
+Georgia,Webster County,True,0.5581811672037236
+Georgia,Wheeler County,True,0.6111815415821501
+Georgia,White County,True,0.9546741181593845
+Georgia,Whitfield County,True,0.9138730057372846
+Georgia,Wilcox County,True,0.6265990295544773
+Georgia,Wilkes County,True,0.5537911869789599
+Georgia,Wilkinson County,True,0.5938185235459956
+Georgia,Worth County,True,0.6870889103537096
+Hawaii,Hawaii County,False,0.3419665840341242
+Hawaii,Honolulu County,False,0.22449127996296495
+Hawaii,Kalawao County,False,0.2777777777777778
+Hawaii,Kauai County,False,0.3334307507963878
+Hawaii,Maui County,False,0.3590876341435668
+Idaho,Ada County,True,0.9250943013389201
+Idaho,Adams County,True,0.9670498084291188
+Idaho,Bannock County,True,0.9197971360381861
+Idaho,Bear Lake County,True,0.9773150499407482
+Idaho,Benewah County,True,0.8664034221783481
+Idaho,Bingham County,True,0.897743765668294
+Idaho,Blaine County,True,0.9587155963302753
+Idaho,Boise County,True,0.9587417702999268
+Idaho,Bonner County,True,0.9619033501334124
+Idaho,Bonneville County,True,0.9526451951557872
+Idaho,Boundary County,True,0.9477239082161362
+Idaho,Butte County,True,0.9660583941605839
+Idaho,Camas County,True,0.9507892293407614
+Idaho,Canyon County,True,0.9398776613302525
+Idaho,Caribou County,True,0.9721526447620451
+Idaho,Cassia County,True,0.9570304099101037
+Idaho,Clark County,True,0.9378596087456847
+Idaho,Clearwater County,True,0.9474970896391153
+Idaho,Custer County,True,0.9743708150542599
+Idaho,Elmore County,True,0.8902490180376006
+Idaho,Franklin County,True,0.9745033630533396
+Idaho,Fremont County,True,0.965887165238867
+Idaho,Gem County,True,0.958375817189468
+Idaho,Gooding County,True,0.9519979072657119
+Idaho,Idaho County,True,0.9447510424331617
+Idaho,Jefferson County,True,0.9630115424973767
+Idaho,Jerome County,True,0.9516422952131206
+Idaho,Kootenai County,True,0.9503852989315594
+Idaho,Latah County,True,0.9374083385711293
+Idaho,Lemhi County,True,0.9622325341582882
+Idaho,Lewis County,True,0.9110311133967601
+Idaho,Lincoln County,True,0.9603941633503885
+Idaho,Madison County,True,0.9588850918410935
+Idaho,Minidoka County,True,0.9486949144083445
+Idaho,Nez Perce County,True,0.9053654094255141
+Idaho,Oneida County,True,0.9781731909845789
+Idaho,Owyhee County,True,0.9184369263047469
+Idaho,Payette County,True,0.9464640664340298
+Idaho,Power County,True,0.936101825662124
+Idaho,Shoshone County,True,0.9552039048968667
+Idaho,Teton County,True,0.974233983286908
+Idaho,Twin Falls County,True,0.9503657993511038
+Idaho,Valley County,True,0.9684651650078575
+Idaho,Washington County,True,0.9518764234082583
+Illinois,Adams County,True,0.9381222375998929
+Illinois,Alexander County,True,0.6103510583376355
+Illinois,Bond County,True,0.9120380866016776
+Illinois,Boone County,True,0.932350760103819
+Illinois,Brown County,True,0.7885449811975701
+Illinois,Bureau County,True,0.9693499985432509
+Illinois,Calhoun County,True,0.9894295971280415
+Illinois,Carroll County,True,0.9708880154553328
+Illinois,Cass County,True,0.9423451791872844
+Illinois,Champaign County,True,0.7479240048013538
+Illinois,Christian County,True,0.967232519198568
+Illinois,Clark County,True,0.9819236226787588
+Illinois,Clay County,True,0.9784977480749674
+Illinois,Clinton County,True,0.9431701741940569
+Illinois,Coles County,True,0.933109682229056
+Illinois,Cook County,True,0.6586491711223353
+Illinois,Crawford County,True,0.9339285714285714
+Illinois,Cumberland County,True,0.9832239241429613
+Illinois,DeKalb County,True,0.8833377903422983
+Illinois,De Witt County,True,0.9750517220396738
+Illinois,Douglas County,True,0.9778874729260062
+Illinois,DuPage County,True,0.8201763602291843
+Illinois,Edgar County,True,0.9834533560551921
+Illinois,Edwards County,True,0.9818970676241772
+Illinois,Effingham County,True,0.9824178383256194
+Illinois,Fayette County,True,0.9397656037067321
+Illinois,Ford County,True,0.9756567675613935
+Illinois,Franklin County,True,0.9766285177760297
+Illinois,Fulton County,True,0.9440942948350659
+Illinois,Gallatin County,True,0.9777163904235727
+Illinois,Greene County,True,0.9802592810842663
+Illinois,Grundy County,True,0.9630874485392097
+Illinois,Hamilton County,True,0.9805256869772999
+Illinois,Hancock County,True,0.982213752580594
+Illinois,Hardin County,True,0.972757162987318
+Illinois,Henderson County,True,0.9815419565526055
+Illinois,Henry County,True,0.9616987339248331
+Illinois,Iroquois County,True,0.9704514363885088
+Illinois,Jackson County,True,0.7862862279635764
+Illinois,Jasper County,True,0.9848138131890992
+Illinois,Jefferson County,True,0.8853305785123967
+Illinois,Jersey County,True,0.9753759563802656
+Illinois,Jo Daviess County,True,0.9786686771031975
+Illinois,Johnson County,True,0.9018808777429467
+Illinois,Kane County,True,0.8736619284307552
+Illinois,Kankakee County,True,0.8128538570417552
+Illinois,Kendall County,True,0.8826467973413488
+Illinois,Knox County,True,0.8892376595785404
+Illinois,Lake County,True,0.830053267247764
+Illinois,LaSalle County,True,0.9550335035805015
+Illinois,Lawrence County,True,0.8831004577210311
+Illinois,Lee County,True,0.9240517167565716
+Illinois,Livingston County,True,0.927963360674826
+Illinois,Logan County,True,0.8973111651617632
+Illinois,McDonough County,True,0.9057995512800812
+Illinois,McHenry County,True,0.9418195979165652
+Illinois,McLean County,True,0.8515506643216605
+Illinois,Macon County,True,0.7945914531156354
+Illinois,Macoupin County,True,0.9742753699900489
+Illinois,Madison County,True,0.8898810301512228
+Illinois,Marion County,True,0.9347200082274901
+Illinois,Marshall County,True,0.9792325788918634
+Illinois,Mason County,True,0.978990716828366
+Illinois,Massac County,True,0.9159774189313378
+Illinois,Menard County,True,0.9728030183933344
+Illinois,Mercer County,True,0.9839077625007707
+Illinois,Monroe County,True,0.9823125580837605
+Illinois,Montgomery County,True,0.9535111411208643
+Illinois,Morgan County,True,0.9143229757314584
+Illinois,Moultrie County,True,0.9843300073662359
+Illinois,Ogle County,True,0.969781259461096
+Illinois,Peoria County,True,0.7549157828404199
+Illinois,Perry County,True,0.8887025115604316
+Illinois,Piatt County,True,0.9793383422200679
+Illinois,Pike County,True,0.9691562423350503
+Illinois,Pope County,True,0.9133895131086143
+Illinois,Pulaski County,True,0.6390463487829277
+Illinois,Putnam County,True,0.9794427454977914
+Illinois,Randolph County,True,0.8836023789294817
+Illinois,Richland County,True,0.9733555885262116
+Illinois,Rock Island County,True,0.8548797276494164
+Illinois,St. Clair County,True,0.6559410543855865
+Illinois,Saline County,True,0.9319329752264892
+Illinois,Sangamon County,True,0.8368252279558992
+Illinois,Schuyler County,True,0.9570873005229985
+Illinois,Scott County,True,0.9841209829867675
+Illinois,Shelby County,True,0.9863038385294648
+Illinois,Stark County,True,0.9783047426841575
+Illinois,Stephenson County,True,0.8730594774164697
+Illinois,Tazewell County,True,0.9643910584116102
+Illinois,Union County,True,0.9633932113107043
+Illinois,Vermilion County,True,0.8361638609139446
+Illinois,Wabash County,True,0.9705807111793298
+Illinois,Warren County,True,0.9481698719756358
+Illinois,Washington County,True,0.9777366762570215
+Illinois,Wayne County,True,0.9811753348618318
+Illinois,White County,True,0.9804365733113674
+Illinois,Whiteside County,True,0.958804411713861
+Illinois,Will County,True,0.8135067500051281
+Illinois,Williamson County,True,0.9301826799052104
+Illinois,Winnebago County,True,0.8196590531689429
+Illinois,Woodford County,True,0.9757255395037335
+Indiana,Adams County,True,0.9834133566128328
+Indiana,Allen County,True,0.8171120828385292
+Indiana,Bartholomew County,True,0.9127500663473569
+Indiana,Benton County,True,0.9801226715129486
+Indiana,Blackford County,True,0.9764837625979843
+Indiana,Boone County,True,0.9526330076004343
+Indiana,Brown County,True,0.9738778757541603
+Indiana,Carroll County,True,0.9804428962428465
+Indiana,Cass County,True,0.9416811383841788
+Indiana,Clark County,True,0.8923100284946093
+Indiana,Clay County,True,0.9798412639266684
+Indiana,Clinton County,True,0.9799224759251408
+Indiana,Crawford County,True,0.9782466010314111
+Indiana,Daviess County,True,0.9744885229540918
+Indiana,Dearborn County,True,0.9765206397623969
+Indiana,Decatur County,True,0.9739267337378081
+Indiana,DeKalb County,True,0.9775761442309965
+Indiana,Delaware County,True,0.8950444770116901
+Indiana,Dubois County,True,0.9802239072044876
+Indiana,Elkhart County,True,0.901176741692925
+Indiana,Fayette County,True,0.9701194390111948
+Indiana,Floyd County,True,0.9152398283809093
+Indiana,Fountain County,True,0.9804895145744494
+Indiana,Franklin County,True,0.9851974400278637
+Indiana,Fulton County,True,0.9647007763900275
+Indiana,Gibson County,True,0.9561240958814036
+Indiana,Grant County,True,0.8949516803692485
+Indiana,Greene County,True,0.9819672131147541
+Indiana,Hamilton County,True,0.8893417848322078
+Indiana,Hancock County,True,0.9545768542145405
+Indiana,Harrison County,True,0.9767976695456636
+Indiana,Hendricks County,True,0.9035590358562559
+Indiana,Henry County,True,0.956875063329618
+Indiana,Howard County,True,0.8906202850969837
+Indiana,Huntington County,True,0.975775272393003
+Indiana,Jackson County,True,0.9665297216999744
+Indiana,Jasper County,True,0.9736669057867049
+Indiana,Jay County,True,0.9825423570158195
+Indiana,Jefferson County,True,0.9581618234318363
+Indiana,Jennings County,True,0.9759951706260431
+Indiana,Johnson County,True,0.9456041231641653
+Indiana,Knox County,True,0.951707675358061
+Indiana,Kosciusko County,True,0.9653519566029714
+Indiana,LaGrange County,True,0.9821966365501985
+Indiana,Lake County,True,0.7056286440121714
+Indiana,LaPorte County,True,0.8592488718695503
+Indiana,Lawrence County,True,0.9757367941316898
+Indiana,Madison County,True,0.8897336361125602
+Indiana,Marion County,True,0.6710559676683965
+Indiana,Marshall County,True,0.9711636611092208
+Indiana,Martin County,True,0.9834307992202729
+Indiana,Miami County,True,0.9224360028504084
+Indiana,Monroe County,True,0.8819449861366199
+Indiana,Montgomery County,True,0.96737596068385
+Indiana,Morgan County,True,0.9779110675356134
+Indiana,Newton County,True,0.9760039874679578
+Indiana,Noble County,True,0.975536967760918
+Indiana,Ohio County,True,0.9822339200526402
+Indiana,Orange County,True,0.9702386998476384
+Indiana,Owen County,True,0.9787652011225444
+Indiana,Parke County,True,0.9633253266155017
+Indiana,Perry County,True,0.9573527900524098
+Indiana,Pike County,True,0.9823750587498041
+Indiana,Porter County,True,0.9343622119481899
+Indiana,Posey County,True,0.9750380874252901
+Indiana,Pulaski County,True,0.9740170679670832
+Indiana,Putnam County,True,0.9378013245033112
+Indiana,Randolph County,True,0.9770288591903932
+Indiana,Ripley County,True,0.9777490116502816
+Indiana,Rush County,True,0.9781807546066101
+Indiana,St. Joseph County,True,0.8173001832216983
+Indiana,Scott County,True,0.980370728426716
+Indiana,Shelby County,True,0.966562478918846
+Indiana,Spencer County,True,0.9787877333589289
+Indiana,Starke County,True,0.9780295524059794
+Indiana,Steuben County,True,0.9738307349665924
+Indiana,Sullivan County,True,0.939588446290353
+Indiana,Switzerland County,True,0.9809094397544129
+Indiana,Tippecanoe County,True,0.8661562815117766
+Indiana,Tipton County,True,0.981459063395986
+Indiana,Union County,True,0.976229285520239
+Indiana,Vanderburgh County,True,0.8697099381835474
+Indiana,Vermillion County,True,0.9836034912718205
+Indiana,Vigo County,True,0.8848360202161804
+Indiana,Wabash County,True,0.9701183523376904
+Indiana,Warren County,True,0.9835770798369695
+Indiana,Warrick County,True,0.9532606718158212
+Indiana,Washington County,True,0.9830235306758354
+Indiana,Wayne County,True,0.9109823544903871
+Indiana,Wells County,True,0.978844206567337
+Indiana,White County,True,0.9722017522312291
+Indiana,Whitley County,True,0.9769959810449284
+Iowa,Adair County,True,0.9862317871942253
+Iowa,Adams County,True,0.9803119406801329
+Iowa,Allamakee County,True,0.9642480859731685
+Iowa,Appanoose County,True,0.9770866141732284
+Iowa,Audubon County,True,0.9827411167512691
+Iowa,Benton County,True,0.9814147984667209
+Iowa,Black Hawk County,True,0.8695038689121529
+Iowa,Boone County,True,0.9733918686772285
+Iowa,Bremer County,True,0.9720576820948568
+Iowa,Buchanan County,True,0.9802311145067328
+Iowa,Buena Vista County,True,0.8827214452214452
+Iowa,Butler County,True,0.9840517816628853
+Iowa,Calhoun County,True,0.9685134726006661
+Iowa,Carroll County,True,0.9779458097038437
+Iowa,Cass County,True,0.9784303723675581
+Iowa,Cedar County,True,0.9773023457862728
+Iowa,Cerro Gordo County,True,0.9604457842331232
+Iowa,Cherokee County,True,0.9728779507785033
+Iowa,Chickasaw County,True,0.9853372434017595
+Iowa,Clarke County,True,0.971291355389541
+Iowa,Clay County,True,0.9751189830712693
+Iowa,Clayton County,True,0.9830109335576115
+Iowa,Clinton County,True,0.9455426237247778
+Iowa,Crawford County,True,0.9513547865272401
+Iowa,Dallas County,True,0.9370961690774938
+Iowa,Davis County,True,0.9840027621130164
+Iowa,Decatur County,True,0.9548043135829395
+Iowa,Delaware County,True,0.9857175372709684
+Iowa,Des Moines County,True,0.9123946455131383
+Iowa,Dickinson County,True,0.9837379212821117
+Iowa,Dubuque County,True,0.9446880553540069
+Iowa,Emmet County,True,0.9498023715415019
+Iowa,Fayette County,True,0.9694127831481749
+Iowa,Floyd County,True,0.9620702541106129
+Iowa,Franklin County,True,0.9745120333522835
+Iowa,Fremont County,True,0.977612984469008
+Iowa,Greene County,True,0.9783677482792527
+Iowa,Grundy County,True,0.9861021850899743
+Iowa,Guthrie County,True,0.9818131205344716
+Iowa,Hamilton County,True,0.9557481751824818
+Iowa,Hancock County,True,0.9780851446021196
+Iowa,Hardin County,True,0.9693677031557045
+Iowa,Harrison County,True,0.9826092933736597
+Iowa,Henry County,True,0.9268135995255979
+Iowa,Howard County,True,0.9846282547317787
+Iowa,Humboldt County,True,0.978312262308562
+Iowa,Ida County,True,0.9842431063590321
+Iowa,Iowa County,True,0.981345357959108
+Iowa,Jackson County,True,0.9734172077922078
+Iowa,Jasper County,True,0.9687721982405333
+Iowa,Jefferson County,True,0.8792909231042865
+Iowa,Johnson County,True,0.868725103985563
+Iowa,Jones County,True,0.9628373467706769
+Iowa,Keokuk County,True,0.9842876421823791
+Iowa,Kossuth County,True,0.9802554411573048
+Iowa,Lee County,True,0.9413482325855631
+Iowa,Linn County,True,0.9114238602847257
+Iowa,Louisa County,True,0.9593899627593545
+Iowa,Lucas County,True,0.9863013698630136
+Iowa,Lyon County,True,0.9876669218338011
+Iowa,Madison County,True,0.9800689919509391
+Iowa,Mahaska County,True,0.9628391926213073
+Iowa,Marion County,True,0.9666058230348006
+Iowa,Marshall County,True,0.9358983772670534
+Iowa,Mills County,True,0.9759385320482578
+Iowa,Mitchell County,True,0.9878787878787879
+Iowa,Monona County,True,0.9697501096010521
+Iowa,Monroe County,True,0.9765595932035223
+Iowa,Montgomery County,True,0.9808820745788378
+Iowa,Muscatine County,True,0.9515613703677791
+Iowa,O'Brien County,True,0.9738921817668642
+Iowa,Osceola County,True,0.9788470854190214
+Iowa,Page County,True,0.9480684783300452
+Iowa,Palo Alto County,True,0.9775741239892183
+Iowa,Plymouth County,True,0.9765126269723371
+Iowa,Pocahontas County,True,0.9762237762237762
+Iowa,Polk County,True,0.871524193730139
+Iowa,Pottawattamie County,True,0.9561848180556004
+Iowa,Poweshiek County,True,0.9555401366353544
+Iowa,Ringgold County,True,0.9795918367346939
+Iowa,Sac County,True,0.9829607012705605
+Iowa,Scott County,True,0.8748096848914981
+Iowa,Shelby County,True,0.9824343359018974
+Iowa,Sioux County,True,0.9742617018793043
+Iowa,Story County,True,0.8910906298003072
+Iowa,Tama County,True,0.8894844890510949
+Iowa,Taylor County,True,0.9822809278350515
+Iowa,Union County,True,0.9728442115292997
+Iowa,Van Buren County,True,0.9845616861323667
+Iowa,Wapello County,True,0.9504608946445738
+Iowa,Warren County,True,0.9749205604487001
+Iowa,Washington County,True,0.9724377110522954
+Iowa,Wayne County,True,0.9796658259773013
+Iowa,Webster County,True,0.9315322083009149
+Iowa,Winnebago County,True,0.970377358490566
+Iowa,Winneshiek County,True,0.9718911732586297
+Iowa,Woodbury County,True,0.896132834260137
+Iowa,Worth County,True,0.979651549408166
+Iowa,Wright County,True,0.9749057039488876
+Kansas,Allen County,True,0.9381334935055184
+Kansas,Anderson County,True,0.9660224832638625
+Kansas,Atchison County,True,0.9123892226253494
+Kansas,Barber County,True,0.9672906809298498
+Kansas,Barton County,True,0.9561635881990057
+Kansas,Bourbon County,True,0.9310599449553602
+Kansas,Brown County,True,0.8595283878149985
+Kansas,Butler County,True,0.9420298661643398
+Kansas,Chase County,True,0.9608269858541894
+Kansas,Chautauqua County,True,0.8994679361523383
+Kansas,Cherokee County,True,0.9071421841138226
+Kansas,Cheyenne County,True,0.9824495892457058
+Kansas,Clark County,True,0.9513984410820725
+Kansas,Clay County,True,0.9723361856757707
+Kansas,Cloud County,True,0.9691390869426413
+Kansas,Coffey County,True,0.9645965655139968
+Kansas,Comanche County,True,0.9764767381076843
+Kansas,Cowley County,True,0.8983961640211641
+Kansas,Crawford County,True,0.9249256878636214
+Kansas,Decatur County,True,0.9770114942528736
+Kansas,Dickinson County,True,0.9565833417670276
+Kansas,Doniphan County,True,0.9286622583926755
+Kansas,Douglas County,True,0.8512723277573008
+Kansas,Edwards County,True,0.9523329976502182
+Kansas,Elk County,True,0.9488970588235294
+Kansas,Ellis County,True,0.9565621450452622
+Kansas,Ellsworth County,True,0.922389898367724
+Kansas,Finney County,True,0.9037903225806452
+Kansas,Ford County,True,0.9172421731123389
+Kansas,Franklin County,True,0.9479271211302401
+Kansas,Geary County,True,0.7056533291242469
+Kansas,Gove County,True,0.9816782704287285
+Kansas,Graham County,True,0.9150504266873546
+Kansas,Grant County,True,0.9550675249274265
+Kansas,Gray County,True,0.9739635157545605
+Kansas,Greeley County,True,0.9761171032357473
+Kansas,Greenwood County,True,0.9575457080880074
+Kansas,Hamilton County,True,0.9552860932171277
+Kansas,Harper County,True,0.9617661986127559
+Kansas,Harvey County,True,0.9428727189257431
+Kansas,Haskell County,True,0.9593515037593985
+Kansas,Hodgeman County,True,0.9714722363728986
+Kansas,Jackson County,True,0.8739683247825117
+Kansas,Jefferson County,True,0.9631037212984956
+Kansas,Jewell County,True,0.9770190413657256
+Kansas,Johnson County,True,0.8789794128730714
+Kansas,Kearny County,True,0.9581653225806451
+Kansas,Kingman County,True,0.9694772987409386
+Kansas,Kiowa County,True,0.9615384615384616
+Kansas,Labette County,True,0.8843732381131366
+Kansas,Lane County,True,0.9589201877934272
+Kansas,Leavenworth County,True,0.851914740349117
+Kansas,Lincoln County,True,0.9773156899810964
+Kansas,Linn County,True,0.968435547081877
+Kansas,Logan County,True,0.9612068965517241
+Kansas,Lyon County,True,0.9083204930662557
+Kansas,McPherson County,True,0.9580324294863061
+Kansas,Marion County,True,0.965173726411274
+Kansas,Marshall County,True,0.9753542207144282
+Kansas,Meade County,True,0.9638307552320291
+Kansas,Miami County,True,0.9573776523978903
+Kansas,Mitchell County,True,0.9809598741148702
+Kansas,Montgomery County,True,0.8529266664732
+Kansas,Morris County,True,0.9678852066962761
+Kansas,Morton County,True,0.9353108236036605
+Kansas,Nemaha County,True,0.970489538097118
+Kansas,Neosho County,True,0.9492868462757528
+Kansas,Ness County,True,0.9732724902216427
+Kansas,Norton County,True,0.9476122594440485
+Kansas,Osage County,True,0.9672283484078801
+Kansas,Osborne County,True,0.9789805570152391
+Kansas,Ottawa County,True,0.9698616600790514
+Kansas,Pawnee County,True,0.9158487297921478
+Kansas,Phillips County,True,0.9690161261098025
+Kansas,Pottawatomie County,True,0.9450273518070128
+Kansas,Pratt County,True,0.9526110197368421
+Kansas,Rawlins County,True,0.9796875
+Kansas,Reno County,True,0.9326484372575189
+Kansas,Republic County,True,0.9806504734458625
+Kansas,Rice County,True,0.9474211316975463
+Kansas,Riley County,True,0.8463474068972824
+Kansas,Rooks County,True,0.9754930116791116
+Kansas,Rush County,True,0.9757763975155279
+Kansas,Russell County,True,0.9619925136769364
+Kansas,Saline County,True,0.9056583553618632
+Kansas,Scott County,True,0.9724529066234555
+Kansas,Sedgwick County,True,0.8123197767762345
+Kansas,Seward County,True,0.8948910689259778
+Kansas,Shawnee County,True,0.8466570944907844
+Kansas,Sheridan County,True,0.9818754925137904
+Kansas,Sherman County,True,0.9591035498118763
+Kansas,Smith County,True,0.9739707835325365
+Kansas,Stafford County,True,0.955713630105553
+Kansas,Stanton County,True,0.9572413793103448
+Kansas,Stevens County,True,0.9629951355107713
+Kansas,Sumner County,True,0.9514657430092084
+Kansas,Thomas County,True,0.9637325273894976
+Kansas,Trego County,True,0.9772270596115205
+Kansas,Wabaunsee County,True,0.9636311976132973
+Kansas,Wallace County,True,0.972313777191826
+Kansas,Washington County,True,0.9751649878430011
+Kansas,Wichita County,True,0.9716312056737588
+Kansas,Wilson County,True,0.956068094453597
+Kansas,Woodson County,True,0.9594264795607077
+Kansas,Wyandotte County,True,0.6703303609021611
+Kentucky,Adair County,True,0.9556626506024096
+Kentucky,Allen County,True,0.973428995546759
+Kentucky,Anderson County,True,0.958578792341679
+Kentucky,Ballard County,True,0.9493579743189727
+Kentucky,Barren County,True,0.9339682390748516
+Kentucky,Bath County,True,0.9698356210811727
+Kentucky,Bell County,True,0.9548309264450201
+Kentucky,Boone County,True,0.9265707612961822
+Kentucky,Bourbon County,True,0.9138552407648414
+Kentucky,Boyd County,True,0.9501667887071841
+Kentucky,Boyle County,True,0.8946890920510853
+Kentucky,Bracken County,True,0.9810454438427125
+Kentucky,Breathitt County,True,0.9823248991565823
+Kentucky,Breckinridge County,True,0.9589955657416173
+Kentucky,Bullitt County,True,0.970393696637504
+Kentucky,Butler County,True,0.97803738317757
+Kentucky,Caldwell County,True,0.9272516428295323
+Kentucky,Calloway County,True,0.9245784092418006
+Kentucky,Campbell County,True,0.9469353632243587
+Kentucky,Carlisle County,True,0.9686134286849424
+Kentucky,Carroll County,True,0.9548623853211009
+Kentucky,Carter County,True,0.9803276290770806
+Kentucky,Casey County,True,0.9782987190647929
+Kentucky,Christian County,True,0.7310246993782067
+Kentucky,Clark County,True,0.9288847905664068
+Kentucky,Clay County,True,0.9442846539246613
+Kentucky,Clinton County,True,0.974623237724842
+Kentucky,Crittenden County,True,0.9770474137931034
+Kentucky,Cumberland County,True,0.9560052793664761
+Kentucky,Daviess County,True,0.9220006745224687
+Kentucky,Edmonson County,True,0.9694308673680723
+Kentucky,Elliott County,True,0.9569408740359897
+Kentucky,Estill County,True,0.9862692334230319
+Kentucky,Fayette County,True,0.7876355613459077
+Kentucky,Fleming County,True,0.9731456043956044
+Kentucky,Floyd County,True,0.9825412719196899
+Kentucky,Franklin County,True,0.8472211067384146
+Kentucky,Fulton County,True,0.7192337164750958
+Kentucky,Gallatin County,True,0.9619058851279632
+Kentucky,Garrard County,True,0.9636374386566546
+Kentucky,Grant County,True,0.9728813559322034
+Kentucky,Graves County,True,0.9280577455785212
+Kentucky,Grayson County,True,0.9740409798182098
+Kentucky,Green County,True,0.9604065399911622
+Kentucky,Greenup County,True,0.9719127141962024
+Kentucky,Hancock County,True,0.9744151204333295
+Kentucky,Hardin County,True,0.8104928754963794
+Kentucky,Harlan County,True,0.9616368286445013
+Kentucky,Harrison County,True,0.9615549828178694
+Kentucky,Hart County,True,0.9350974627028205
+Kentucky,Henderson County,True,0.8954485842667641
+Kentucky,Henry County,True,0.9484266875571223
+Kentucky,Hickman County,True,0.8830458561211612
+Kentucky,Hopkins County,True,0.9048974699259386
+Kentucky,Jackson County,True,0.9881479258870303
+Kentucky,Jefferson County,True,0.7389708428561534
+Kentucky,Jessamine County,True,0.9357711292434774
+Kentucky,Johnson County,True,0.9822520634649105
+Kentucky,Kenton County,True,0.9178658223621151
+Kentucky,Knott County,True,0.9817042917390226
+Kentucky,Knox County,True,0.9734047581534583
+Kentucky,Larue County,True,0.9487668715991803
+Kentucky,Laurel County,True,0.9722680030944132
+Kentucky,Lawrence County,True,0.9845406360424028
+Kentucky,Lee County,True,0.9623669867635609
+Kentucky,Leslie County,True,0.9873769024171889
+Kentucky,Letcher County,True,0.9869321977287909
+Kentucky,Lewis County,True,0.9874232020238526
+Kentucky,Lincoln County,True,0.9586689015167
+Kentucky,Livingston County,True,0.9794120768332802
+Kentucky,Logan County,True,0.9070029272686332
+Kentucky,Lyon County,True,0.93114597054245
+Kentucky,McCracken County,True,0.8569924789089078
+Kentucky,McCreary County,True,0.9170955780618739
+Kentucky,McLean County,True,0.9821165579633916
+Kentucky,Madison County,True,0.9212252022739603
+Kentucky,Magoffin County,True,0.9864274212100299
+Kentucky,Marion County,True,0.89318068690891
+Kentucky,Marshall County,True,0.9833141909137315
+Kentucky,Martin County,True,0.9178372439770854
+Kentucky,Mason County,True,0.9064641388761991
+Kentucky,Meade County,True,0.9210589321749838
+Kentucky,Menifee County,True,0.9638263665594855
+Kentucky,Mercer County,True,0.9367386294153615
+Kentucky,Metcalfe County,True,0.970809509479386
+Kentucky,Monroe County,True,0.9642362073745495
+Kentucky,Montgomery County,True,0.9532005055386217
+Kentucky,Morgan County,True,0.9421275973075798
+Kentucky,Muhlenberg County,True,0.9403162182098073
+Kentucky,Nelson County,True,0.9263521288837745
+Kentucky,Nicholas County,True,0.9822857142857143
+Kentucky,Ohio County,True,0.9745379023883697
+Kentucky,Oldham County,True,0.9219045137758093
+Kentucky,Owen County,True,0.9771481653506735
+Kentucky,Owsley County,True,0.9847522236340533
+Kentucky,Pendleton County,True,0.9813064913722268
+Kentucky,Perry County,True,0.9663609645550795
+Kentucky,Pike County,True,0.9806319922714949
+Kentucky,Powell County,True,0.9806136345429785
+Kentucky,Pulaski County,True,0.9685499976412498
+Kentucky,Robertson County,True,0.9817184643510055
+Kentucky,Rockcastle County,True,0.9841232506174291
+Kentucky,Rowan County,True,0.9621700004264938
+Kentucky,Russell County,True,0.9763959535920443
+Kentucky,Scott County,True,0.9134272377030801
+Kentucky,Shelby County,True,0.8898748108405558
+Kentucky,Simpson County,True,0.8727334929866576
+Kentucky,Spencer County,True,0.9633096003674781
+Kentucky,Taylor County,True,0.9254789194443319
+Kentucky,Todd County,True,0.8996126788396174
+Kentucky,Trigg County,True,0.8944417526129992
+Kentucky,Trimble County,True,0.968703766928417
+Kentucky,Union County,True,0.856026936026936
+Kentucky,Warren County,True,0.8537187259841175
+Kentucky,Washington County,True,0.9191244823797854
+Kentucky,Wayne County,True,0.9643680368805225
+Kentucky,Webster County,True,0.9330781123463152
+Kentucky,Whitley County,True,0.9727879658581932
+Kentucky,Wolfe County,True,0.9879955332216639
+Kentucky,Woodford County,True,0.9228376600071779
+Louisiana,Acadia Parish,True,0.7994734461816773
+Louisiana,Allen Parish,True,0.7185481029014449
+Louisiana,Ascension Parish,True,0.7463085335660723
+Louisiana,Assumption Parish,True,0.6814904890124207
+Louisiana,Avoyelles Parish,True,0.6724394696387395
+Louisiana,Beauregard Parish,True,0.8224414983048979
+Louisiana,Bienville Parish,True,0.5603864734299517
+Louisiana,Bossier Parish,True,0.741212959401622
+Louisiana,Caddo Parish,False,0.4914952954767341
+Louisiana,Calcasieu Parish,True,0.7145192886119295
+Louisiana,Caldwell Parish,True,0.8106757297081167
+Louisiana,Cameron Parish,True,0.9649358400477469
+Louisiana,Catahoula Parish,True,0.667994558880684
+Louisiana,Claiborne Parish,False,0.47474447349655335
+Louisiana,Concordia Parish,True,0.5786889270807758
+Louisiana,De Soto Parish,True,0.5915513852316137
+Louisiana,East Baton Rouge Parish,False,0.4946842254446309
+Louisiana,East Carroll Parish,False,0.3005580653733723
+Louisiana,East Feliciana Parish,True,0.5347361055577768
+Louisiana,Evangeline Parish,True,0.6982497775140908
+Louisiana,Franklin Parish,True,0.6707844949175624
+Louisiana,Grant Parish,True,0.8119902120717781
+Louisiana,Iberia Parish,True,0.6306706847389829
+Louisiana,Iberville Parish,False,0.49608763693270735
+Louisiana,Jackson Parish,True,0.6873458312777504
+Louisiana,Jefferson Parish,True,0.6671662715944622
+Louisiana,Jefferson Davis Parish,True,0.8019534232629167
+Louisiana,Lafayette Parish,True,0.7055162846006474
+Louisiana,Lafourche Parish,True,0.8107679147471375
+Louisiana,La Salle Parish,True,0.8535539626180746
+Louisiana,Lincoln Parish,True,0.5524247651907226
+Louisiana,Livingston Parish,True,0.9218368677146018
+Louisiana,Madison Parish,False,0.36465361197959517
+Louisiana,Morehouse Parish,True,0.5081461591494612
+Louisiana,Natchitoches Parish,True,0.5497768536362714
+Louisiana,Orleans Parish,False,0.34792417061611375
+Louisiana,Ouachita Parish,True,0.6057298069681971
+Louisiana,Plaquemines Parish,True,0.7167760545127712
+Louisiana,Pointe Coupee Parish,True,0.6231628971222388
+Louisiana,Rapides Parish,True,0.6413165826868017
+Louisiana,Red River Parish,True,0.5924524101079818
+Louisiana,Richland Parish,True,0.6278858563166196
+Louisiana,Sabine Parish,True,0.7078725590955807
+Louisiana,St. Bernard Parish,True,0.7432929026059806
+Louisiana,St. Charles Parish,True,0.7066684383364021
+Louisiana,St. Helena Parish,False,0.45172071176948786
+Louisiana,St. James Parish,False,0.48853696713009853
+Louisiana,St. John the Baptist Parish,False,0.432727110237276
+Louisiana,St. Landry Parish,True,0.5660156343381703
+Louisiana,St. Martin Parish,True,0.6683040625118537
+Louisiana,St. Mary Parish,True,0.6174274168016836
+Louisiana,St. Tammany Parish,True,0.8454769829569895
+Louisiana,Tangipahoa Parish,True,0.6736902649848916
+Louisiana,Tensas Parish,False,0.4317723052079128
+Louisiana,Terrebonne Parish,True,0.7207778860161047
+Louisiana,Union Parish,True,0.7169811320754716
+Louisiana,Vermilion Parish,True,0.815745108390239
+Louisiana,Vernon Parish,True,0.7792793628988843
+Louisiana,Washington Parish,True,0.6752946218127277
+Louisiana,Webster Parish,True,0.6429653150952613
+Louisiana,West Baton Rouge Parish,True,0.6061976271467684
+Louisiana,West Carroll Parish,True,0.8184503127171647
+Louisiana,West Feliciana Parish,True,0.5284647841609867
+Louisiana,Winn Parish,True,0.6687333333333333
+Maine,Androscoggin County,True,0.9309072661208635
+Maine,Aroostook County,True,0.9560873737088672
+Maine,Cumberland County,True,0.9295191267993561
+Maine,Franklin County,True,0.9735553379040157
+Maine,Hancock County,True,0.9681989809010594
+Maine,Kennebec County,True,0.9636118930186373
+Maine,Knox County,True,0.9707824947060603
+Maine,Lincoln County,True,0.9742246928028087
+Maine,Oxford County,True,0.9703032306327308
+Maine,Penobscot County,True,0.9544248305646976
+Maine,Piscataquis County,True,0.969866975130133
+Maine,Sagadahoc County,True,0.962177829558694
+Maine,Somerset County,True,0.9705066461182816
+Maine,Waldo County,True,0.9720504894384338
+Maine,Washington County,True,0.9232949294559794
+Maine,York County,True,0.9643526544559182
+Maryland,Allegany County,True,0.8909501161973734
+Maryland,Anne Arundel County,True,0.769099417244336
+Maryland,Baltimore County,True,0.648330489140075
+Maryland,Calvert County,True,0.8196657294595439
+Maryland,Caroline County,True,0.8193654868879516
+Maryland,Carroll County,True,0.9326683291770573
+Maryland,Cecil County,True,0.8995339049716803
+Maryland,Charles County,True,0.5004183489162771
+Maryland,Dorchester County,True,0.6864919664526435
+Maryland,Frederick County,True,0.8366154385554841
+Maryland,Garrett County,True,0.9770550010048905
+Maryland,Harford County,True,0.8140269163629928
+Maryland,Howard County,True,0.623377751060348
+Maryland,Kent County,True,0.8179882125699569
+Maryland,Montgomery County,True,0.6315639652874614
+Maryland,Prince George's County,False,0.2652513000233789
+Maryland,Queen Anne's County,True,0.8983228727235312
+Maryland,St. Mary's County,True,0.7946635837301697
+Maryland,Somerset County,True,0.5456900163790804
+Maryland,Talbot County,True,0.835214446952596
+Maryland,Washington County,True,0.8519707735621397
+Maryland,Wicomico County,True,0.6952914642264548
+Maryland,Worcester County,True,0.8300050409089147
+Maryland,Baltimore city,False,0.3135760981874716
+Massachusetts,Barnstable County,True,0.940141024867354
+Massachusetts,Berkshire County,True,0.9318776150627615
+Massachusetts,Bristol County,True,0.9109823946345553
+Massachusetts,Dukes County,True,0.911918314652896
+Massachusetts,Essex County,True,0.876624167237943
+Massachusetts,Franklin County,True,0.9482247693597987
+Massachusetts,Hampden County,True,0.8399177546504465
+Massachusetts,Hampshire County,True,0.8967427015864076
+Massachusetts,Middlesex County,True,0.822776904987266
+Massachusetts,Nantucket County,True,0.8954165857448049
+Massachusetts,Norfolk County,True,0.8233968130586864
+Massachusetts,Plymouth County,True,0.8720543301871502
+Massachusetts,Suffolk County,True,0.6312984769473393
+Massachusetts,Worcester County,True,0.884313718193467
+Michigan,Alcona County,True,0.980347907851434
+Michigan,Alger County,True,0.8579813436746673
+Michigan,Allegan County,True,0.9550959933594552
+Michigan,Alpena County,True,0.9738318396387767
+Michigan,Antrim County,True,0.9694095531060412
+Michigan,Arenac County,True,0.968340117593849
+Michigan,Baraga County,True,0.741679143153288
+Michigan,Barry County,True,0.9732497033395491
+Michigan,Bay County,True,0.9521110955253191
+Michigan,Benzie County,True,0.9632980246206699
+Michigan,Berrien County,True,0.7972921886113016
+Michigan,Branch County,True,0.9538843804139692
+Michigan,Calhoun County,True,0.8337367412045981
+Michigan,Cass County,True,0.8980513762872784
+Michigan,Charlevoix County,True,0.9573838527456481
+Michigan,Cheboygan County,True,0.9331526998258177
+Michigan,Chippewa County,True,0.7236683197574325
+Michigan,Clare County,True,0.9694989106753813
+Michigan,Clinton County,True,0.9431454849278299
+Michigan,Crawford County,True,0.9709472481975873
+Michigan,Delta County,True,0.946670643097278
+Michigan,Dickinson County,True,0.9715865751334859
+Michigan,Eaton County,True,0.8858140137767573
+Michigan,Emmet County,True,0.9284216922375816
+Michigan,Genesee County,True,0.751013364945221
+Michigan,Gladwin County,True,0.9779861874117093
+Michigan,Gogebic County,True,0.9120243720467546
+Michigan,Grand Traverse County,True,0.9500965077655086
+Michigan,Gratiot County,True,0.9208092622970306
+Michigan,Hillsdale County,True,0.9735663760842761
+Michigan,Houghton County,True,0.9437294633077765
+Michigan,Huron County,True,0.978282968302375
+Michigan,Ingham County,True,0.7812461176403772
+Michigan,Ionia County,True,0.9266667709294506
+Michigan,Iosco County,True,0.9623772528295934
+Michigan,Iron County,True,0.9699663415897126
+Michigan,Isabella County,True,0.8936516702776952
+Michigan,Jackson County,True,0.8807303395317793
+Michigan,Kalamazoo County,True,0.8261135988687249
+Michigan,Kalkaska County,True,0.9670156149482426
+Michigan,Kent County,True,0.8367303429666928
+Michigan,Keweenaw County,True,0.9846501128668171
+Michigan,Lake County,True,0.8726735084362498
+Michigan,Lapeer County,True,0.9661914645072754
+Michigan,Leelanau County,True,0.9369185911972971
+Michigan,Lenawee County,True,0.9423055552749351
+Michigan,Livingston County,True,0.9687209442238485
+Michigan,Luce County,True,0.8054277828886844
+Michigan,Mackinac County,True,0.7585525725060609
+Michigan,Macomb County,True,0.8445909346777077
+Michigan,Manistee County,True,0.9218952658884566
+Michigan,Marquette County,True,0.9389891909404177
+Michigan,Mason County,True,0.959483960948396
+Michigan,Mecosta County,True,0.9350616371946997
+Michigan,Menominee County,True,0.9516691161032962
+Michigan,Midland County,True,0.9465176206723772
+Michigan,Missaukee County,True,0.971392455591777
+Michigan,Monroe County,True,0.9510619140935331
+Michigan,Montcalm County,True,0.9509009937081002
+Michigan,Montmorency County,True,0.9765723934149431
+Michigan,Muskegon County,True,0.8146748774841053
+Michigan,Newaygo County,True,0.9614879376133781
+Michigan,Oakland County,True,0.7726797945696456
+Michigan,Oceana County,True,0.9608893956670468
+Michigan,Ogemaw County,True,0.9704249661799692
+Michigan,Ontonagon County,True,0.9697489474504912
+Michigan,Osceola County,True,0.9668327891390274
+Michigan,Oscoda County,True,0.9740456238361266
+Michigan,Otsego County,True,0.9675270607826811
+Michigan,Ottawa County,True,0.9328537081148573
+Michigan,Presque Isle County,True,0.9739507959479016
+Michigan,Roscommon County,True,0.9715838380486186
+Michigan,Saginaw County,True,0.7681305551214249
+Michigan,St. Clair County,True,0.9453761111526108
+Michigan,St. Joseph County,True,0.939848016316863
+Michigan,Sanilac County,True,0.9753004637077695
+Michigan,Schoolcraft County,True,0.8699508570058732
+Michigan,Shiawassee County,True,0.9707505199907557
+Michigan,Tuscola County,True,0.9676740697376606
+Michigan,Van Buren County,True,0.9157367402655923
+Michigan,Washtenaw County,True,0.7520216785488366
+Michigan,Wayne County,True,0.5439684439274367
+Michigan,Wexford County,True,0.9667259568204122
+Minnesota,Aitkin County,True,0.9540403089093992
+Minnesota,Anoka County,True,0.8772999934604386
+Minnesota,Becker County,True,0.8816969696969696
+Minnesota,Beltrami County,True,0.7488264462809917
+Minnesota,Benton County,True,0.9468673613791329
+Minnesota,Big Stone County,True,0.9812161115414407
+Minnesota,Blue Earth County,True,0.9276704920803184
+Minnesota,Brown County,True,0.9819469026548673
+Minnesota,Carlton County,True,0.8978160009052846
+Minnesota,Carver County,True,0.9397910508286468
+Minnesota,Cass County,True,0.8544627428853546
+Minnesota,Chippewa County,True,0.9570663370416151
+Minnesota,Chisago County,True,0.9596647459402828
+Minnesota,Clay County,True,0.9363810157094173
+Minnesota,Clearwater County,True,0.8711938412041824
+Minnesota,Cook County,True,0.8742526518804243
+Minnesota,Cottonwood County,True,0.943002500646719
+Minnesota,Crow Wing County,True,0.9671925193219045
+Minnesota,Dakota County,True,0.8701640137451615
+Minnesota,Dodge County,True,0.9751865948297168
+Minnesota,Douglas County,True,0.9770698887820953
+Minnesota,Faribault County,True,0.978686110916357
+Minnesota,Fillmore County,True,0.9841605068637803
+Minnesota,Freeborn County,True,0.9642236104849616
+Minnesota,Goodhue County,True,0.9546141229281768
+Minnesota,Grant County,True,0.979306864064603
+Minnesota,Hennepin County,True,0.767099789291696
+Minnesota,Houston County,True,0.9743589743589743
+Minnesota,Hubbard County,True,0.9476089841254239
+Minnesota,Isanti County,True,0.9627431499686258
+Minnesota,Itasca County,True,0.9335264589460649
+Minnesota,Jackson County,True,0.9636222157377687
+Minnesota,Kanabec County,True,0.970759137769447
+Minnesota,Kandiyohi County,True,0.9490549564642865
+Minnesota,Kittson County,True,0.9848653460939238
+Minnesota,Koochiching County,True,0.9465475469412478
+Minnesota,Lac qui Parle County,True,0.9790406526937685
+Minnesota,Lake County,True,0.9743945276391199
+Minnesota,Lake of the Woods County,True,0.9614900578907627
+Minnesota,Le Sueur County,True,0.9754308631715866
+Minnesota,Lincoln County,True,0.9871089721553798
+Minnesota,Lyon County,True,0.9283561053909094
+Minnesota,McLeod County,True,0.9732893240507031
+Minnesota,Mahnomen County,False,0.4965679190751445
+Minnesota,Marshall County,True,0.9777754259710022
+Minnesota,Martin County,True,0.9772405372405373
+Minnesota,Meeker County,True,0.9825679719006114
+Minnesota,Mille Lacs County,True,0.9137529137529138
+Minnesota,Morrison County,True,0.9770059300496188
+Minnesota,Mower County,True,0.931956720512039
+Minnesota,Murray County,True,0.9742334149469511
+Minnesota,Nicollet County,True,0.9461872513589845
+Minnesota,Nobles County,True,0.8732722111043887
+Minnesota,Norman County,True,0.9525173349412119
+Minnesota,Olmsted County,True,0.864639005616526
+Minnesota,Otter Tail County,True,0.9661883815109622
+Minnesota,Pennington County,True,0.9438681256217138
+Minnesota,Pine County,True,0.9223081661989184
+Minnesota,Pipestone County,True,0.9491706795077581
+Minnesota,Polk County,True,0.9458874458874459
+Minnesota,Pope County,True,0.9793426367976497
+Minnesota,Ramsey County,True,0.7165905350743629
+Minnesota,Red Lake County,True,0.9552238805970149
+Minnesota,Redwood County,True,0.8967627942197262
+Minnesota,Renville County,True,0.969288828160583
+Minnesota,Rice County,True,0.9206062848860518
+Minnesota,Rock County,True,0.9695383649115461
+Minnesota,Roseau County,True,0.944365469113466
+Minnesota,St. Louis County,True,0.9304309626146297
+Minnesota,Scott County,True,0.8789585059784539
+Minnesota,Sherburne County,True,0.9468447822927729
+Minnesota,Sibley County,True,0.9757984526879587
+Minnesota,Stearns County,True,0.9261176998271836
+Minnesota,Steele County,True,0.9487913661142008
+Minnesota,Stevens County,True,0.945048121701335
+Minnesota,Swift County,True,0.9727954971857411
+Minnesota,Todd County,True,0.9699294136847688
+Minnesota,Traverse County,True,0.9359605911330049
+Minnesota,Wabasha County,True,0.9783479232631775
+Minnesota,Wadena County,True,0.9643350039950607
+Minnesota,Waseca County,True,0.9468732130789624
+Minnesota,Washington County,True,0.8819933794369244
+Minnesota,Watonwan County,True,0.957271833378028
+Minnesota,Wilkin County,True,0.9702353834472286
+Minnesota,Winona County,True,0.9481492959383292
+Minnesota,Wright County,True,0.9567286548972797
+Minnesota,Yellow Medicine County,True,0.9435912581216775
+Mississippi,Adams County,False,0.4447107901126954
+Mississippi,Alcorn County,True,0.8630933161123668
+Mississippi,Amite County,True,0.5752874893879756
+Mississippi,Attala County,True,0.5665814062744688
+Mississippi,Benton County,True,0.6130584192439863
+Mississippi,Bolivar County,False,0.3372168475696083
+Mississippi,Calhoun County,True,0.7012059556693391
+Mississippi,Carroll County,True,0.6528830471073587
+Mississippi,Chickasaw County,True,0.5517914561322922
+Mississippi,Choctaw County,True,0.6806853582554517
+Mississippi,Claiborne County,False,0.14696759011659
+Mississippi,Clarke County,True,0.6428485141338488
+Mississippi,Clay County,False,0.4009399324423557
+Mississippi,Coahoma County,False,0.23470380022560192
+Mississippi,Copiah County,False,0.4744949058884476
+Mississippi,Covington County,True,0.6296220737491712
+Mississippi,DeSoto County,True,0.7343684204194088
+Mississippi,Forrest County,True,0.6066143002054777
+Mississippi,Franklin County,True,0.6376610255114928
+Mississippi,George County,True,0.9011774967291758
+Mississippi,Greene County,True,0.7172105373488925
+Mississippi,Grenada County,True,0.5642468406973526
+Mississippi,Hancock County,True,0.8852723455971716
+Mississippi,Harrison County,True,0.7061470192600076
+Mississippi,Hinds County,False,0.2823807627803719
+Mississippi,Holmes County,False,0.16189614811662056
+Mississippi,Humphreys County,False,0.23876373925345523
+Mississippi,Issaquena County,False,0.3463203463203463
+Mississippi,Itawamba County,True,0.9247215081405312
+Mississippi,Jackson County,True,0.7352136167301031
+Mississippi,Jasper County,False,0.4655934152393633
+Mississippi,Jefferson County,False,0.13851793663262635
+Mississippi,Jefferson Davis County,False,0.39170545212765956
+Mississippi,Jones County,True,0.6914671989044449
+Mississippi,Kemper County,False,0.3513304305757136
+Mississippi,Lafayette County,True,0.7208808970603091
+Mississippi,Lamar County,True,0.7718305471913612
+Mississippi,Lauderdale County,True,0.5495636998254799
+Mississippi,Lawrence County,True,0.6765197992191857
+Mississippi,Leake County,True,0.5091642700776924
+Mississippi,Lee County,True,0.6963853154911691
+Mississippi,Leflore County,False,0.2571086984619361
+Mississippi,Lincoln County,True,0.6802005730659025
+Mississippi,Lowndes County,True,0.5400201106083459
+Mississippi,Madison County,True,0.5794369744485518
+Mississippi,Marion County,True,0.6592920353982301
+Mississippi,Marshall County,True,0.5112531410466513
+Mississippi,Monroe County,True,0.6795530051344005
+Mississippi,Montgomery County,True,0.5310910118711136
+Mississippi,Neshoba County,True,0.6068155111633372
+Mississippi,Newton County,True,0.6354798388963474
+Mississippi,Noxubee County,False,0.2699233374933143
+Mississippi,Oktibbeha County,True,0.5900979415670651
+Mississippi,Panola County,False,0.4911960084703971
+Mississippi,Pearl River County,True,0.8460620309250384
+Mississippi,Perry County,True,0.783468475922555
+Mississippi,Pike County,False,0.4582793017456359
+Mississippi,Pontotoc County,True,0.8280054912727985
+Mississippi,Prentiss County,True,0.841512406459236
+Mississippi,Quitman County,False,0.29379328032828933
+Mississippi,Rankin County,True,0.7789687596872524
+Mississippi,Scott County,True,0.5920353982300885
+Mississippi,Sharkey County,False,0.2842258803917483
+Mississippi,Simpson County,True,0.6287352962665302
+Mississippi,Smith County,True,0.7563780972774549
+Mississippi,Stone County,True,0.7827823385844243
+Mississippi,Sunflower County,False,0.262002743484225
+Mississippi,Tallahatchie County,False,0.4136059823969294
+Mississippi,Tate County,True,0.676026676026676
+Mississippi,Tippah County,True,0.8202497162315551
+Mississippi,Tishomingo County,True,0.9578888265019652
+Mississippi,Tunica County,False,0.23809069212410502
+Mississippi,Union County,True,0.8335886773181586
+Mississippi,Walthall County,True,0.5370860927152318
+Mississippi,Warren County,True,0.503597870393478
+Mississippi,Washington County,False,0.2722814070351759
+Mississippi,Wayne County,True,0.5982285465369537
+Mississippi,Webster County,True,0.7869309692200418
+Mississippi,Wilkinson County,False,0.29325699745547074
+Mississippi,Winston County,True,0.518734563035367
+Mississippi,Yalobusha County,True,0.6059188775098783
+Mississippi,Yazoo County,False,0.4116687355914169
+Missouri,Adair County,True,0.942496384035026
+Missouri,Andrew County,True,0.9732445312051444
+Missouri,Atchison County,True,0.9738988580750407
+Missouri,Audrain County,True,0.9062097498146052
+Missouri,Barry County,True,0.9542001913014122
+Missouri,Barton County,True,0.9545270325038502
+Missouri,Bates County,True,0.9678616314561015
+Missouri,Benton County,True,0.9713637801919629
+Missouri,Bollinger County,True,0.9790825391697625
+Missouri,Boone County,True,0.8327231732281128
+Missouri,Buchanan County,True,0.9030945533186187
+Missouri,Butler County,True,0.9093675237497968
+Missouri,Caldwell County,True,0.9696008747949699
+Missouri,Callaway County,True,0.9244329082496332
+Missouri,Camden County,True,0.9713308244953814
+Missouri,Cape Girardeau County,True,0.8933853151397011
+Missouri,Carroll County,True,0.9603786044464011
+Missouri,Carter County,True,0.9635899073778346
+Missouri,Cass County,True,0.9296544990834462
+Missouri,Cedar County,True,0.9706500471048627
+Missouri,Chariton County,True,0.9652242123153353
+Missouri,Christian County,True,0.9618159951894167
+Missouri,Clark County,True,0.9806284976323719
+Missouri,Clay County,True,0.8884289712932326
+Missouri,Clinton County,True,0.9560171640335479
+Missouri,Cole County,True,0.8495082697117714
+Missouri,Cooper County,True,0.9013698630136986
+Missouri,Crawford County,True,0.9749114046391752
+Missouri,Dade County,True,0.9586416490486258
+Missouri,Dallas County,True,0.967557592713852
+Missouri,Daviess County,True,0.9785168102925113
+Missouri,DeKalb County,True,0.8680061823802164
+Missouri,Dent County,True,0.963763021665495
+Missouri,Douglas County,True,0.9695252116304748
+Missouri,Dunklin County,True,0.8764846352039213
+Missouri,Franklin County,True,0.9708219934524513
+Missouri,Gasconade County,True,0.9782928132514026
+Missouri,Gentry County,True,0.9815552604397226
+Missouri,Greene County,True,0.9177374869042783
+Missouri,Grundy County,True,0.9725285355000968
+Missouri,Harrison County,True,0.97467919340055
+Missouri,Henry County,True,0.9632555410102469
+Missouri,Hickory County,True,0.968693429879672
+Missouri,Holt County,True,0.9746509129967776
+Missouri,Howard County,True,0.9203461500639197
+Missouri,Howell County,True,0.9670432449728027
+Missouri,Iron County,True,0.9616348563716984
+Missouri,Jackson County,True,0.7049516000690901
+Missouri,Jasper County,True,0.9164656683267105
+Missouri,Jefferson County,True,0.9672765418307153
+Missouri,Johnson County,True,0.9013916208614445
+Missouri,Knox County,True,0.9779519843214111
+Missouri,Laclede County,True,0.9619109467205015
+Missouri,Lafayette County,True,0.9468561064087062
+Missouri,Lawrence County,True,0.9640471053110459
+Missouri,Lewis County,True,0.9442697070965206
+Missouri,Lincoln County,True,0.9562357086628931
+Missouri,Linn County,True,0.9745273950656841
+Missouri,Livingston County,True,0.9525171244264149
+Missouri,McDonald County,True,0.8988022381535233
+Missouri,Macon County,True,0.952289218519232
+Missouri,Madison County,True,0.9758997429305912
+Missouri,Maries County,True,0.9770357222098958
+Missouri,Marion County,True,0.9193251000173943
+Missouri,Mercer County,True,0.9742558326629123
+Missouri,Miller County,True,0.9673610831285007
+Missouri,Mississippi County,True,0.742214774472839
+Missouri,Moniteau County,True,0.942528
+Missouri,Monroe County,True,0.9490980121797081
+Missouri,Montgomery County,True,0.9626542180726909
+Missouri,Morgan County,True,0.9634637371377442
+Missouri,New Madrid County,True,0.8168541756815232
+Missouri,Newton County,True,0.9141004587854882
+Missouri,Nodaway County,True,0.9447884196592511
+Missouri,Oregon County,True,0.9625352368827862
+Missouri,Osage County,True,0.9875162361091067
+Missouri,Ozark County,True,0.9742735131757109
+Missouri,Pemiscot County,True,0.7108387168019435
+Missouri,Perry County,True,0.9748659165001577
+Missouri,Pettis County,True,0.9327725135282025
+Missouri,Phelps County,True,0.9144641785404672
+Missouri,Pike County,True,0.9075141395098303
+Missouri,Platte County,True,0.8807221848045712
+Missouri,Polk County,True,0.9639552503465841
+Missouri,Pulaski County,True,0.7923731200360502
+Missouri,Putnam County,True,0.9811397282498479
+Missouri,Ralls County,True,0.9714897343582758
+Missouri,Randolph County,True,0.9100671140939597
+Missouri,Ray County,True,0.9615417967395075
+Missouri,Reynolds County,True,0.9664016799160042
+Missouri,Ripley County,True,0.9670846394984326
+Missouri,St. Charles County,True,0.9123407094768706
+Missouri,St. Clair County,True,0.9652733797762297
+Missouri,Ste. Genevieve County,True,0.9763246899661782
+Missouri,St. Francois County,True,0.9364807257611846
+Missouri,St. Louis County,True,0.7049692234801157
+Missouri,Saline County,True,0.900938343545139
+Missouri,Schuyler County,True,0.9871853546910755
+Missouri,Scotland County,True,0.988722575353701
+Missouri,Scott County,True,0.8628988987965968
+Missouri,Shannon County,True,0.9612887713392643
+Missouri,Shelby County,True,0.9807507218479307
+Missouri,Stoddard County,True,0.9721765396878671
+Missouri,Stone County,True,0.9720286365940193
+Missouri,Sullivan County,True,0.9708218759547815
+Missouri,Taney County,True,0.9482589319435003
+Missouri,Texas County,True,0.9349476946919798
+Missouri,Vernon County,True,0.9625024098708309
+Missouri,Warren County,True,0.9513327023478765
+Missouri,Washington County,True,0.9574417214584579
+Missouri,Wayne County,True,0.9712729443366662
+Missouri,Webster County,True,0.9650903689031939
+Missouri,Worth County,True,0.9783549783549783
+Missouri,Wright County,True,0.9716034140318858
+Missouri,St. Louis city,False,0.45904102183724527
+Montana,Beaverhead County,True,0.9506740851701263
+Montana,Big Horn County,False,0.31842891049689914
+Montana,Blaine County,False,0.4806224749364058
+Montana,Broadwater County,True,0.9629951355107713
+Montana,Carbon County,True,0.9713636812481485
+Montana,Carter County,True,0.9830076465590484
+Montana,Cascade County,True,0.8956230192234744
+Montana,Chouteau County,True,0.7726964769647696
+Montana,Custer County,True,0.9543236877523553
+Montana,Daniels County,True,0.9574468085106383
+Montana,Dawson County,True,0.9551302843550654
+Montana,Deer Lodge County,True,0.9311802319280372
+Montana,Fallon County,True,0.9748677248677249
+Montana,Fergus County,True,0.964669873196327
+Montana,Flathead County,True,0.9560311241583273
+Montana,Gallatin County,True,0.954618092297061
+Montana,Garfield County,True,0.979381443298969
+Montana,Glacier County,False,0.3254321347822916
+Montana,Golden Valley County,True,0.9558998808104887
+Montana,Granite County,True,0.9671920231585719
+Montana,Hill County,True,0.7331052181351583
+Montana,Jefferson County,True,0.9534251381457767
+Montana,Judith Basin County,True,0.9802371541501976
+Montana,Lake County,True,0.6888152901400676
+Montana,Lewis and Clark County,True,0.9420432825698255
+Montana,Liberty County,True,0.9828595317725752
+Montana,Lincoln County,True,0.9592119439741419
+Montana,McCone County,True,0.9753086419753086
+Montana,Madison County,True,0.9701280227596017
+Montana,Meagher County,True,0.9755717255717256
+Montana,Mineral County,True,0.9450443964482841
+Montana,Missoula County,True,0.9278499148472206
+Montana,Musselshell County,True,0.9612004287245445
+Montana,Park County,True,0.9651185199460397
+Montana,Petroleum County,True,0.9921722113502935
+Montana,Phillips County,True,0.876937984496124
+Montana,Pondera County,True,0.8259529602595296
+Montana,Powder River County,True,0.9614293817356778
+Montana,Powell County,True,0.923055242390079
+Montana,Prairie County,True,0.9567847882454624
+Montana,Ravalli County,True,0.9609276903759509
+Montana,Richland County,True,0.9571692876965773
+Montana,Roosevelt County,False,0.36698087306671545
+Montana,Rosebud County,True,0.6104725415070242
+Montana,Sanders County,True,0.9195301542776999
+Montana,Sheridan County,True,0.9539106145251397
+Montana,Silver Bow County,True,0.9479115193442432
+Montana,Stillwater County,True,0.9672648178357803
+Montana,Sweet Grass County,True,0.9669902912621359
+Montana,Teton County,True,0.9623327275731043
+Montana,Toole County,True,0.9157088122605364
+Montana,Treasure County,True,0.9456521739130435
+Montana,Valley County,True,0.8746169220519654
+Montana,Wheatland County,True,0.9600760456273765
+Montana,Wibaux County,True,0.9744560075685903
+Montana,Yellowstone County,True,0.9143348125518495
+Nebraska,Adams County,True,0.9548618837216695
+Nebraska,Antelope County,True,0.9856378915202445
+Nebraska,Arthur County,True,0.9629629629629629
+Nebraska,Banner County,True,0.9894736842105263
+Nebraska,Blaine County,True,0.9883268482490273
+Nebraska,Boone County,True,0.9839394498800074
+Nebraska,Box Butte County,True,0.927542634973933
+Nebraska,Boyd County,True,0.9732229795520935
+Nebraska,Brown County,True,0.9827985444922263
+Nebraska,Buffalo County,True,0.9605798200703706
+Nebraska,Burt County,True,0.960354407568704
+Nebraska,Butler County,True,0.9822784810126582
+Nebraska,Cass County,True,0.9732622448573589
+Nebraska,Cedar County,True,0.9867367939629544
+Nebraska,Chase County,True,0.9899114173228346
+Nebraska,Cherry County,True,0.9104243059193295
+Nebraska,Cheyenne County,True,0.9575883988875645
+Nebraska,Clay County,True,0.9684916549680237
+Nebraska,Colfax County,True,0.92171219374824
+Nebraska,Cuming County,True,0.9770723104056437
+Nebraska,Custer County,True,0.9804469273743017
+Nebraska,Dakota County,True,0.8742709628071518
+Nebraska,Dawes County,True,0.9002403846153846
+Nebraska,Dawson County,True,0.9204376548307184
+Nebraska,Deuel County,True,0.9822515212981744
+Nebraska,Dixon County,True,0.9749915511997297
+Nebraska,Dodge County,True,0.961347352238724
+Nebraska,Douglas County,True,0.8160597818414539
+Nebraska,Dundy County,True,0.9683325086590797
+Nebraska,Fillmore County,True,0.9764338936059609
+Nebraska,Franklin County,True,0.9808657465495608
+Nebraska,Frontier County,True,0.986866107260124
+Nebraska,Furnas County,True,0.9792133686570206
+Nebraska,Gage County,True,0.9712005869944053
+Nebraska,Garden County,True,0.9805427547363031
+Nebraska,Garfield County,True,0.9920279023418037
+Nebraska,Gosper County,True,0.9743716116313454
+Nebraska,Grant County,True,0.985691573926868
+Nebraska,Greeley County,True,0.9816924328722538
+Nebraska,Hall County,True,0.9296876294639158
+Nebraska,Hamilton County,True,0.9850183109532793
+Nebraska,Harlan County,True,0.9865102639296187
+Nebraska,Hayes County,True,0.9853095487932844
+Nebraska,Hitchcock County,True,0.9819882230689296
+Nebraska,Holt County,True,0.9845132743362832
+Nebraska,Hooker County,True,0.9779917469050894
+Nebraska,Howard County,True,0.9786931818181818
+Nebraska,Jefferson County,True,0.976997739662279
+Nebraska,Johnson County,True,0.9108949416342412
+Nebraska,Kearney County,True,0.9799537393986122
+Nebraska,Keith County,True,0.9711678832116788
+Nebraska,Keya Paha County,True,0.9888059701492538
+Nebraska,Kimball County,True,0.9550621200105737
+Nebraska,Knox County,True,0.8834713635833431
+Nebraska,Lancaster County,True,0.8918294382887934
+Nebraska,Lincoln County,True,0.9635723981273719
+Nebraska,Logan County,True,0.9790849673202614
+Nebraska,Loup County,True,0.9915110356536503
+Nebraska,McPherson County,True,0.9803536345776032
+Nebraska,Madison County,True,0.9464188861294283
+Nebraska,Merrick County,True,0.9715938303341902
+Nebraska,Morrill County,True,0.9644098997750051
+Nebraska,Nance County,True,0.9773889636608345
+Nebraska,Nemaha County,True,0.9678501537601342
+Nebraska,Nuckolls County,True,0.9808472284812979
+Nebraska,Otoe County,True,0.9705340699815838
+Nebraska,Pawnee County,True,0.9757685352622062
+Nebraska,Perkins County,True,0.984646878198567
+Nebraska,Phelps County,True,0.9804666304937601
+Nebraska,Pierce County,True,0.9850683784538097
+Nebraska,Platte County,True,0.9644747712738289
+Nebraska,Polk County,True,0.981015037593985
+Nebraska,Red Willow County,True,0.9688382687927107
+Nebraska,Richardson County,True,0.9417370325693607
+Nebraska,Rock County,True,0.9825581395348837
+Nebraska,Saline County,True,0.9396166792608367
+Nebraska,Sarpy County,True,0.9007735766009659
+Nebraska,Saunders County,True,0.9789175431013782
+Nebraska,Scotts Bluff County,True,0.9440266204956174
+Nebraska,Seward County,True,0.9749040448774727
+Nebraska,Sheridan County,True,0.8606880992667795
+Nebraska,Sherman County,True,0.9880952380952381
+Nebraska,Sioux County,True,0.9749049429657795
+Nebraska,Stanton County,True,0.9740515684020364
+Nebraska,Thayer County,True,0.9820802493182703
+Nebraska,Thomas County,True,0.9896449704142012
+Nebraska,Thurston County,False,0.40370370370370373
+Nebraska,Valley County,True,0.9858122487585718
+Nebraska,Washington County,True,0.9768417934031207
+Nebraska,Wayne County,True,0.9621101109482939
+Nebraska,Webster County,True,0.9696644295302014
+Nebraska,Wheeler County,True,0.9875776397515528
+Nebraska,York County,True,0.9659537319947621
+Nevada,Churchill County,True,0.8573538461538461
+Nevada,Clark County,True,0.7318277713607686
+Nevada,Douglas County,True,0.9213337305302579
+Nevada,Elko County,True,0.892260231177757
+Nevada,Esmeralda County,True,0.9109677419354839
+Nevada,Eureka County,True,0.9290354822588706
+Nevada,Humboldt County,True,0.9063233223838574
+Nevada,Lander County,True,0.9141558660158222
+Nevada,Lincoln County,True,0.9269195189639223
+Nevada,Lyon County,True,0.9037933251505056
+Nevada,Mineral County,True,0.7330754352030948
+Nevada,Nye County,True,0.9019388776388986
+Nevada,Pershing County,True,0.880574899985183
+Nevada,Storey County,True,0.9237611181702668
+Nevada,Washoe County,True,0.8588791090186738
+Nevada,White Pine County,True,0.8783110934076878
+Nevada,Carson City,True,0.8989569276778876
+New Hampshire,Belknap County,True,0.9660185323321233
+New Hampshire,Carroll County,True,0.9743729896777178
+New Hampshire,Cheshire County,True,0.9632665807861966
+New Hampshire,Coos County,True,0.9707440179461615
+New Hampshire,Grafton County,True,0.9364326482098205
+New Hampshire,Hillsborough County,True,0.9189048997076357
+New Hampshire,Merrimack County,True,0.9536048405230272
+New Hampshire,Rockingham County,True,0.9576153381236989
+New Hampshire,Strafford County,True,0.9389456892176057
+New Hampshire,Sullivan County,True,0.9708176626271069
+New Jersey,Atlantic County,True,0.7152623973393556
+New Jersey,Bergen County,True,0.7554859787046952
+New Jersey,Burlington County,True,0.7501905454029814
+New Jersey,Camden County,True,0.7065558798844879
+New Jersey,Cape May County,True,0.9189857119122777
+New Jersey,Cumberland County,True,0.7248280888550876
+New Jersey,Essex County,False,0.4997486493073892
+New Jersey,Gloucester County,True,0.8449614276933277
+New Jersey,Hudson County,True,0.6640681770100352
+New Jersey,Hunterdon County,True,0.9218417945690673
+New Jersey,Mercer County,True,0.6651751411202189
+New Jersey,Middlesex County,True,0.6357471863491613
+New Jersey,Monmouth County,True,0.8507064049928184
+New Jersey,Morris County,True,0.8492707816682363
+New Jersey,Ocean County,True,0.931364239323307
+New Jersey,Passaic County,True,0.7589468765224654
+New Jersey,Salem County,True,0.8179523824003405
+New Jersey,Somerset County,True,0.7272746691404212
+New Jersey,Sussex County,True,0.9441746585097869
+New Jersey,Union County,True,0.6902602320690618
+New Jersey,Warren County,True,0.9155063026576129
+New Mexico,Bernalillo County,True,0.852556944733169
+New Mexico,Catron County,True,0.9363039912520503
+New Mexico,Chaves County,True,0.9256202116016052
+New Mexico,Cibola County,True,0.5452184093070901
+New Mexico,Colfax County,True,0.9432806473568782
+New Mexico,Curry County,True,0.8663542793063399
+New Mexico,De Baca County,True,0.9486248053969901
+New Mexico,Doña Ana County,True,0.9254027839306116
+New Mexico,Eddy County,True,0.9350043183446958
+New Mexico,Grant County,True,0.9415747924322853
+New Mexico,Guadalupe County,True,0.9230936345861395
+New Mexico,Harding County,True,0.9575671852899575
+New Mexico,Hidalgo County,True,0.9597413433458489
+New Mexico,Lea County,True,0.9181313877415659
+New Mexico,Lincoln County,True,0.9400758284504407
+New Mexico,Los Alamos County,True,0.8965251390495071
+New Mexico,Luna County,True,0.9412164050956432
+New Mexico,McKinley County,False,0.1918072751177824
+New Mexico,Mora County,True,0.9424017003188098
+New Mexico,Otero County,True,0.8439000015142109
+New Mexico,Quay County,True,0.9307788801459688
+New Mexico,Rio Arriba County,True,0.7852572052185128
+New Mexico,Roosevelt County,True,0.9265879817816739
+New Mexico,Sandoval County,True,0.7959996459863705
+New Mexico,San Juan County,True,0.5763913202467925
+New Mexico,San Miguel County,True,0.9235055899761171
+New Mexico,Santa Fe County,True,0.9141929974380871
+New Mexico,Sierra County,True,0.9374527112232031
+New Mexico,Socorro County,True,0.8292336533545418
+New Mexico,Taos County,True,0.8841941486927606
+New Mexico,Torrance County,True,0.9109294051557331
+New Mexico,Union County,True,0.9300383660573234
+New Mexico,Valencia County,True,0.9012801607704454
+New York,Albany County,True,0.7863515084054934
+New York,Allegany County,True,0.962239179436276
+New York,Bronx County,False,0.4576303557114691
+New York,Broome County,True,0.8849187115015652
+New York,Cattaraugus County,True,0.9285786201515266
+New York,Cayuga County,True,0.9291281174577635
+New York,Chautauqua County,True,0.9424512689176945
+New York,Chemung County,True,0.889586215428912
+New York,Chenango County,True,0.9703002022710432
+New York,Clinton County,True,0.9277928821613148
+New York,Columbia County,True,0.9105905694491112
+New York,Cortland County,True,0.9518534988074544
+New York,Delaware County,True,0.9569760555038498
+New York,Dutchess County,True,0.8274362475699747
+New York,Erie County,True,0.8089819668670831
+New York,Essex County,True,0.948307281640615
+New York,Franklin County,True,0.8413553431798436
+New York,Fulton County,True,0.9573964497041421
+New York,Genesee County,True,0.933724594427864
+New York,Greene County,True,0.9091282641300105
+New York,Hamilton County,True,0.9717455002092926
+New York,Herkimer County,True,0.9689805915545359
+New York,Jefferson County,True,0.8876702532803379
+New York,Kings County,False,0.4945052589319993
+New York,Lewis County,True,0.9757199529826623
+New York,Livingston County,True,0.9420922697114643
+New York,Madison County,True,0.9524467409024343
+New York,Monroe County,True,0.778827059706103
+New York,Montgomery County,True,0.9449950942111692
+New York,Nassau County,True,0.7726219266798248
+New York,New York County,True,0.6515005342507211
+New York,Niagara County,True,0.8877159219798814
+New York,Oneida County,True,0.8797504666974943
+New York,Onondaga County,True,0.816710649199318
+New York,Ontario County,True,0.9441388144011648
+New York,Orange County,True,0.825108407741274
+New York,Orleans County,True,0.9018815949201606
+New York,Oswego County,True,0.9663023829087921
+New York,Otsego County,True,0.9489377562430116
+New York,Putnam County,True,0.9319525736143042
+New York,Queens County,True,0.5004595711578509
+New York,Rensselaer County,True,0.8809272061813745
+New York,Richmond County,True,0.7787767033191142
+New York,Rockland County,True,0.7810402288541244
+New York,St. Lawrence County,True,0.9401863996008268
+New York,Saratoga County,True,0.9439344896976136
+New York,Schenectady County,True,0.8088110157035662
+New York,Schoharie County,True,0.9634568055079598
+New York,Schuyler County,True,0.9687263692340932
+New York,Seneca County,True,0.9240050984279847
+New York,Steuben County,True,0.9535548085561714
+New York,Suffolk County,True,0.8578451022595618
+New York,Sullivan County,True,0.8547393642649721
+New York,Tioga County,True,0.9703038947660367
+New York,Tompkins County,True,0.8256138229615617
+New York,Ulster County,True,0.8864025171763179
+New York,Warren County,True,0.9648600811742806
+New York,Washington County,True,0.9495503225601424
+New York,Wayne County,True,0.9397818463458187
+New York,Westchester County,True,0.7513398567076024
+New York,Wyoming County,True,0.9215363315191445
+New York,Yates County,True,0.9740372474747475
+North Carolina,Alamance County,True,0.7607588357588357
+North Carolina,Alexander County,True,0.9161533660760318
+North Carolina,Alleghany County,True,0.9618376498581496
+North Carolina,Anson County,False,0.48153770255398276
+North Carolina,Ashe County,True,0.9739823596708123
+North Carolina,Avery County,True,0.9393819109724979
+North Carolina,Beaufort County,True,0.7168206790578231
+North Carolina,Bertie County,False,0.35907616326925873
+North Carolina,Bladen County,True,0.6054704281827294
+North Carolina,Brunswick County,True,0.8531494695208317
+North Carolina,Buncombe County,True,0.8976399852754714
+North Carolina,Burke County,True,0.8666482514778189
+North Carolina,Cabarrus County,True,0.7881711454866719
+North Carolina,Caldwell County,True,0.9224581960209935
+North Carolina,Camden County,True,0.8242814667988108
+North Carolina,Carteret County,True,0.8992193044712562
+North Carolina,Caswell County,True,0.6394452340957058
+North Carolina,Catawba County,True,0.8532516084722591
+North Carolina,Chatham County,True,0.8230265551109495
+North Carolina,Cherokee County,True,0.9412418494368702
+North Carolina,Chowan County,True,0.6332250203086921
+North Carolina,Clay County,True,0.9705217555095121
+North Carolina,Cleveland County,True,0.7665531321172826
+North Carolina,Columbus County,True,0.6398209514556369
+North Carolina,Craven County,True,0.7238427030638541
+North Carolina,Cumberland County,True,0.5374680989603424
+North Carolina,Currituck County,True,0.9094156248702081
+North Carolina,Dare County,True,0.9437422265930061
+North Carolina,Davidson County,True,0.8741516599289477
+North Carolina,Davie County,True,0.9058721309101441
+North Carolina,Duplin County,True,0.7052121333266703
+North Carolina,Durham County,True,0.5301118219431342
+North Carolina,Edgecombe County,False,0.40406405261464773
+North Carolina,Forsyth County,True,0.6795527968347308
+North Carolina,Franklin County,True,0.697844652297682
+North Carolina,Gaston County,True,0.8076414690769963
+North Carolina,Gates County,True,0.6387227230600725
+North Carolina,Graham County,True,0.9060919540229885
+North Carolina,Granville County,True,0.639502945264412
+North Carolina,Greene County,True,0.5899015353026272
+North Carolina,Guilford County,True,0.5928457771238164
+North Carolina,Halifax County,False,0.4093804392104581
+North Carolina,Harnett County,True,0.7249928357964548
+North Carolina,Haywood County,True,0.9673389013376791
+North Carolina,Henderson County,True,0.9326011859678939
+North Carolina,Hertford County,False,0.36132253048530977
+North Carolina,Hoke County,True,0.5039971505461454
+North Carolina,Hyde County,True,0.6647892131763099
+North Carolina,Iredell County,True,0.8329215527202104
+North Carolina,Jackson County,True,0.8561857199367089
+North Carolina,Johnston County,True,0.8086464918999874
+North Carolina,Jones County,True,0.651970802919708
+North Carolina,Lee County,True,0.7544000669848446
+North Carolina,Lenoir County,True,0.5654853360798284
+North Carolina,Lincoln County,True,0.9185757694198934
+North Carolina,McDowell County,True,0.9310858260367127
+North Carolina,Macon County,True,0.9595205054769849
+North Carolina,Madison County,True,0.9648057082248578
+North Carolina,Martin County,True,0.5443846250156504
+North Carolina,Mecklenburg County,True,0.6011675581070162
+North Carolina,Mitchell County,True,0.969742321707444
+North Carolina,Montgomery County,True,0.773131415353477
+North Carolina,Moore County,True,0.8280326017142478
+North Carolina,Nash County,True,0.5795544782045388
+North Carolina,New Hanover County,True,0.814083753118518
+North Carolina,Northampton County,False,0.398870636550308
+North Carolina,Onslow County,True,0.7660302406923384
+North Carolina,Orange County,True,0.7736423543398989
+North Carolina,Pamlico County,True,0.7724491356891541
+North Carolina,Pasquotank County,True,0.5812372200734153
+North Carolina,Pender County,True,0.7902943075929514
+North Carolina,Perquimans County,True,0.7289685172896851
+North Carolina,Person County,True,0.7033462361210145
+North Carolina,Pitt County,True,0.6117679103353153
+North Carolina,Polk County,True,0.9319224507917715
+North Carolina,Randolph County,True,0.9031628599104348
+North Carolina,Richmond County,True,0.6279194458146568
+North Carolina,Robeson County,False,0.3277882741925961
+North Carolina,Rockingham County,True,0.7825388265746333
+North Carolina,Rowan County,True,0.8048632218844984
+North Carolina,Rutherford County,True,0.8745153959270977
+North Carolina,Sampson County,True,0.6717696914728924
+North Carolina,Scotland County,False,0.4678893999002604
+North Carolina,Stanly County,True,0.8514758320126783
+North Carolina,Stokes County,True,0.9394865656328153
+North Carolina,Surry County,True,0.9365152730387025
+North Carolina,Swain County,True,0.6644508874902765
+North Carolina,Transylvania County,True,0.9355535937167037
+North Carolina,Tyrrell County,True,0.5820654679575842
+North Carolina,Union County,True,0.8369413005946672
+North Carolina,Vance County,False,0.46773907648675
+North Carolina,Wake County,True,0.6962204524282388
+North Carolina,Warren County,False,0.4039171850699845
+North Carolina,Washington County,False,0.4785646984924623
+North Carolina,Watauga County,True,0.9539627151973165
+North Carolina,Wayne County,True,0.6381211467572396
+North Carolina,Wilkes County,True,0.9361094277551727
+North Carolina,Wilson County,True,0.5751645962353573
+North Carolina,Yadkin County,True,0.9461453628820502
+North Carolina,Yancey County,True,0.968689733408962
+North Dakota,Adams County,True,0.9688446559930766
+North Dakota,Barnes County,True,0.9603268270540173
+North Dakota,Benson County,False,0.4334319526627219
+North Dakota,Billings County,True,0.9767955801104973
+North Dakota,Bottineau County,True,0.9468004255965953
+North Dakota,Bowman County,True,0.976577139287945
+North Dakota,Burke County,True,0.9737448180561953
+North Dakota,Burleigh County,True,0.9291277076969711
+North Dakota,Cass County,True,0.9162829716247111
+North Dakota,Cavalier County,True,0.9726443768996961
+North Dakota,Dickey County,True,0.9654517843583903
+North Dakota,Divide County,True,0.9717235188509874
+North Dakota,Dunn County,True,0.8679102596420469
+North Dakota,Eddy County,True,0.9518581081081081
+North Dakota,Emmons County,True,0.9833858493268405
+North Dakota,Foster County,True,0.9799528301886793
+North Dakota,Golden Valley County,True,0.9745011086474501
+North Dakota,Grand Forks County,True,0.9046567465022528
+North Dakota,Grant County,True,0.9725675096442349
+North Dakota,Griggs County,True,0.9864521591871296
+North Dakota,Hettinger County,True,0.9475127301214258
+North Dakota,Kidder County,True,0.9736191261335532
+North Dakota,LaMoure County,True,0.9856587263004375
+North Dakota,Logan County,True,0.9849272349272349
+North Dakota,McHenry County,True,0.9761616859561237
+North Dakota,McIntosh County,True,0.9789167575427118
+North Dakota,McKenzie County,True,0.7917866533116314
+North Dakota,McLean County,True,0.912987431517886
+North Dakota,Mercer County,True,0.957223662502946
+North Dakota,Morton County,True,0.9349489342016298
+North Dakota,Mountrail County,True,0.6715136249141287
+North Dakota,Nelson County,True,0.9675324675324676
+North Dakota,Oliver County,True,0.9640914036996736
+North Dakota,Pembina County,True,0.958465135469674
+North Dakota,Pierce County,True,0.9421135292797846
+North Dakota,Ramsey County,True,0.8774271844660194
+North Dakota,Ransom County,True,0.9763041880969875
+North Dakota,Renville County,True,0.977725674091442
+North Dakota,Richland County,True,0.9505457236233582
+North Dakota,Rolette County,False,0.2098456403838131
+North Dakota,Sargent County,True,0.9709958932238193
+North Dakota,Sheridan County,True,0.9715639810426541
+North Dakota,Sioux County,False,0.13641591902461467
+North Dakota,Slope County,True,0.9683377308707124
+North Dakota,Stark County,True,0.9509170370923761
+North Dakota,Steele County,True,0.9778783308195073
+North Dakota,Stutsman County,True,0.9557179707652622
+North Dakota,Towner County,True,0.9581535806729939
+North Dakota,Traill County,True,0.9690287413280476
+North Dakota,Walsh County,True,0.9652362846279197
+North Dakota,Ward County,True,0.9060619154912188
+North Dakota,Wells County,True,0.9800983376258487
+North Dakota,Williams County,True,0.921152189384575
+Ohio,Adams County,True,0.9761904761904762
+Ohio,Allen County,True,0.841955088880646
+Ohio,Ashland County,True,0.9736037158717571
+Ohio,Ashtabula County,True,0.9347239239358894
+Ohio,Athens County,True,0.9189474993779547
+Ohio,Auglaize County,True,0.9792062141345378
+Ohio,Belmont County,True,0.9400324381737021
+Ohio,Brown County,True,0.9751244902097744
+Ohio,Butler County,True,0.8717986772408247
+Ohio,Carroll County,True,0.9776821632210445
+Ohio,Champaign County,True,0.9497535700745608
+Ohio,Clark County,True,0.8741964637114995
+Ohio,Clermont County,True,0.9603988246226486
+Ohio,Clinton County,True,0.950078785274316
+Ohio,Columbiana County,True,0.9578713136225788
+Ohio,Coshocton County,True,0.9724299192473966
+Ohio,Crawford County,True,0.9732549184345025
+Ohio,Cuyahoga County,True,0.6481723738075157
+Ohio,Darke County,True,0.9792979983621232
+Ohio,Defiance County,True,0.9577268143858106
+Ohio,Delaware County,True,0.8981116861168336
+Ohio,Erie County,True,0.8763449304955627
+Ohio,Fairfield County,True,0.9019149138153166
+Ohio,Fayette County,True,0.9512465373961219
+Ohio,Franklin County,True,0.7072470362690574
+Ohio,Fulton County,True,0.975042928045539
+Ohio,Gallia County,True,0.9491989058225869
+Ohio,Geauga County,True,0.9709116140051238
+Ohio,Greene County,True,0.863815584367951
+Ohio,Guernsey County,True,0.9605193761458674
+Ohio,Hamilton County,True,0.6947264344083447
+Ohio,Hancock County,True,0.9482496597111179
+Ohio,Hardin County,True,0.9692035286306004
+Ohio,Harrison County,True,0.9586992490772559
+Ohio,Henry County,True,0.9769299340345873
+Ohio,Highland County,True,0.9655100237220335
+Ohio,Hocking County,True,0.9749598606224166
+Ohio,Holmes County,True,0.9879837303893085
+Ohio,Huron County,True,0.9659750337381916
+Ohio,Jackson County,True,0.9716878072464648
+Ohio,Jefferson County,True,0.9205135328780945
+Ohio,Knox County,True,0.9697883205666749
+Ohio,Lake County,True,0.9354304779991462
+Ohio,Lawrence County,True,0.958170313481138
+Ohio,Licking County,True,0.9336385395464882
+Ohio,Logan County,True,0.9536658310243216
+Ohio,Lorain County,True,0.8709822938987256
+Ohio,Lucas County,True,0.7571404435636693
+Ohio,Madison County,True,0.9100411121176225
+Ohio,Mahoning County,True,0.8099980862871845
+Ohio,Marion County,True,0.9132824058697424
+Ohio,Medina County,True,0.9625641970475116
+Ohio,Meigs County,True,0.9753316661721697
+Ohio,Mercer County,True,0.9780061162079511
+Ohio,Miami County,True,0.9464583737628566
+Ohio,Monroe County,True,0.9804797580589731
+Ohio,Montgomery County,True,0.7442174706405278
+Ohio,Morgan County,True,0.9334719334719335
+Ohio,Morrow County,True,0.9766443414047742
+Ohio,Muskingum County,True,0.9298312972658522
+Ohio,Noble County,True,0.960010974689622
+Ohio,Ottawa County,True,0.9727134183216817
+Ohio,Paulding County,True,0.9688520342057528
+Ohio,Perry County,True,0.978009162848813
+Ohio,Pickaway County,True,0.9440947534530754
+Ohio,Pike County,True,0.9653089887640449
+Ohio,Portage County,True,0.921833869099603
+Ohio,Preble County,True,0.9753616960320871
+Ohio,Putnam County,True,0.9830984268085853
+Ohio,Richland County,True,0.8784329069966497
+Ohio,Ross County,True,0.911363959240078
+Ohio,Sandusky County,True,0.9415633779540572
+Ohio,Scioto County,True,0.9464811345999464
+Ohio,Seneca County,True,0.949194901638759
+Ohio,Shelby County,True,0.9494986474667968
+Ohio,Stark County,True,0.8898198832655762
+Ohio,Summit County,True,0.805732501742753
+Ohio,Trumbull County,True,0.8911555114123989
+Ohio,Tuscarawas County,True,0.9704519871850377
+Ohio,Union County,True,0.9306079863416485
+Ohio,Van Wert County,True,0.973142220985249
+Ohio,Vinton County,True,0.9778684190648841
+Ohio,Warren County,True,0.9059707882029635
+Ohio,Washington County,True,0.9647173647824319
+Ohio,Wayne County,True,0.9601473251602117
+Ohio,Williams County,True,0.9705968597552849
+Ohio,Wood County,True,0.9387129485179407
+Ohio,Wyandot County,True,0.9777060202592117
+Oklahoma,Adair County,False,0.44332764964551735
+Oklahoma,Alfalfa County,True,0.8946346629015178
+Oklahoma,Atoka County,True,0.7451274362818591
+Oklahoma,Beaver County,True,0.9483097835807548
+Oklahoma,Beckham County,True,0.8903860318010485
+Oklahoma,Blaine County,True,0.8272866632600919
+Oklahoma,Bryan County,True,0.7707781285283071
+Oklahoma,Caddo County,True,0.6501448884695734
+Oklahoma,Canadian County,True,0.8513462793733682
+Oklahoma,Carter County,True,0.759862743059166
+Oklahoma,Cherokee County,True,0.5425752855659398
+Oklahoma,Choctaw County,True,0.6489922276379924
+Oklahoma,Cimarron County,True,0.9651991614255765
+Oklahoma,Cleveland County,True,0.8082729127609755
+Oklahoma,Coal County,True,0.73469730001677
+Oklahoma,Comanche County,True,0.6688108236411109
+Oklahoma,Cotton County,True,0.8152721364744111
+Oklahoma,Craig County,True,0.6683618117710876
+Oklahoma,Creek County,True,0.802225021584974
+Oklahoma,Custer County,True,0.8458438463694982
+Oklahoma,Delaware County,True,0.6739943534181125
+Oklahoma,Dewey County,True,0.8967175412920761
+Oklahoma,Ellis County,True,0.956140350877193
+Oklahoma,Garfield County,True,0.8740296458513785
+Oklahoma,Garvin County,True,0.8333150163021578
+Oklahoma,Grady County,True,0.8678790617116608
+Oklahoma,Grant County,True,0.9340124003542959
+Oklahoma,Greer County,True,0.8585991450180862
+Oklahoma,Harmon County,True,0.8578802477632484
+Oklahoma,Harper County,True,0.9627312295973884
+Oklahoma,Haskell County,True,0.7542896892873705
+Oklahoma,Hughes County,True,0.6847354726799653
+Oklahoma,Jackson County,True,0.840454320234783
+Oklahoma,Jefferson County,True,0.876744550729183
+Oklahoma,Johnston County,True,0.7417976915386713
+Oklahoma,Kay County,True,0.8174379786607319
+Oklahoma,Kingfisher County,True,0.9180273242252582
+Oklahoma,Kiowa County,True,0.8440386680988184
+Oklahoma,Latimer County,True,0.6997912696251929
+Oklahoma,Le Flore County,True,0.7834098610470596
+Oklahoma,Lincoln County,True,0.8615636608265816
+Oklahoma,Logan County,True,0.8266614757477213
+Oklahoma,Love County,True,0.8545720862105043
+Oklahoma,McClain County,True,0.8679976413107573
+Oklahoma,McCurtain County,True,0.6784627895069723
+Oklahoma,McIntosh County,True,0.7049164399533618
+Oklahoma,Major County,True,0.9333593648314461
+Oklahoma,Marshall County,True,0.8141254621796077
+Oklahoma,Mayes County,True,0.6805771472988729
+Oklahoma,Murray County,True,0.7894313108394935
+Oklahoma,Muskogee County,True,0.6148365346478554
+Oklahoma,Noble County,True,0.8467279986113522
+Oklahoma,Nowata County,True,0.6946564885496184
+Oklahoma,Okfuskee County,True,0.6484868101634569
+Oklahoma,Oklahoma County,True,0.7180394213386431
+Oklahoma,Okmulgee County,True,0.6621324921135646
+Oklahoma,Osage County,True,0.6631049523133752
+Oklahoma,Ottawa County,True,0.707407866981015
+Oklahoma,Pawnee County,True,0.8042369794828215
+Oklahoma,Payne County,True,0.8184288064898787
+Oklahoma,Pittsburg County,True,0.7382569703427455
+Oklahoma,Pontotoc County,True,0.7150007903472259
+Oklahoma,Pottawatomie County,True,0.7683295647258338
+Oklahoma,Pushmataha County,True,0.7520749665327978
+Oklahoma,Roger Mills County,True,0.9109697933227345
+Oklahoma,Rogers County,True,0.7638598119207396
+Oklahoma,Seminole County,True,0.6841257367387034
+Oklahoma,Sequoyah County,True,0.6709744432098169
+Oklahoma,Stephens County,True,0.8739364434221398
+Oklahoma,Texas County,True,0.9086891803888734
+Oklahoma,Tillman County,True,0.8382766555868064
+Oklahoma,Tulsa County,True,0.7424260690500085
+Oklahoma,Wagoner County,True,0.7717313074770092
+Oklahoma,Washington County,True,0.7902697887010245
+Oklahoma,Washita County,True,0.9148167268972638
+Oklahoma,Woods County,True,0.9057971014492754
+Oklahoma,Woodward County,True,0.9167802219194082
+Oregon,Baker County,True,0.95398830850462
+Oregon,Benton County,True,0.8870299664468356
+Oregon,Clackamas County,True,0.9083773384359279
+Oregon,Clatsop County,True,0.9378032760515804
+Oregon,Columbia County,True,0.9350322606825467
+Oregon,Coos County,True,0.9125755588959606
+Oregon,Crook County,True,0.957547397366009
+Oregon,Curry County,True,0.93212873067242
+Oregon,Deschutes County,True,0.9491486778779494
+Oregon,Douglas County,True,0.9328225896756374
+Oregon,Gilliam County,True,0.9580133128520225
+Oregon,Grant County,True,0.9529861965286319
+Oregon,Harney County,True,0.9273433166943982
+Oregon,Hood River County,True,0.9405331207934821
+Oregon,Jackson County,True,0.9289624634226692
+Oregon,Jefferson County,True,0.7658283139454688
+Oregon,Josephine County,True,0.9381164837815025
+Oregon,Klamath County,True,0.896786624590363
+Oregon,Lake County,True,0.9292240380903358
+Oregon,Lane County,True,0.9061860089918825
+Oregon,Lincoln County,True,0.9028406751749691
+Oregon,Linn County,True,0.9359749915511997
+Oregon,Malheur County,True,0.9245510936989879
+Oregon,Marion County,True,0.8999390596434208
+Oregon,Morrow County,True,0.9426360725720384
+Oregon,Multnomah County,True,0.8088273256977884
+Oregon,Polk County,True,0.9106256466674525
+Oregon,Sherman County,True,0.9572748267898383
+Oregon,Tillamook County,True,0.9461383319492229
+Oregon,Umatilla County,True,0.9103358500390524
+Oregon,Union County,True,0.9380022516402035
+Oregon,Wallowa County,True,0.9627620583492157
+Oregon,Wasco County,True,0.9106211009534272
+Oregon,Washington County,True,0.8303765757606743
+Oregon,Wheeler County,True,0.9403089887640449
+Oregon,Yamhill County,True,0.9216996658520772
+Pennsylvania,Adams County,True,0.959677578289746
+Pennsylvania,Allegheny County,True,0.815101298422403
+Pennsylvania,Armstrong County,True,0.980411934102238
+Pennsylvania,Beaver County,True,0.9130194719375019
+Pennsylvania,Bedford County,True,0.9810031627605222
+Pennsylvania,Berks County,True,0.8931681705285001
+Pennsylvania,Blair County,True,0.9617923081158896
+Pennsylvania,Bradford County,True,0.9740890559306918
+Pennsylvania,Bucks County,True,0.9006575201777203
+Pennsylvania,Butler County,True,0.966594582905336
+Pennsylvania,Cambria County,True,0.9414976268504915
+Pennsylvania,Cameron County,True,0.9813727475197408
+Pennsylvania,Carbon County,True,0.9636033596898748
+Pennsylvania,Centre County,True,0.8962499436105973
+Pennsylvania,Chester County,True,0.8740739278487885
+Pennsylvania,Clarion County,True,0.9733390505977905
+Pennsylvania,Clearfield County,True,0.9587726645644462
+Pennsylvania,Clinton County,True,0.967178682592302
+Pennsylvania,Columbia County,True,0.9587513268647121
+Pennsylvania,Crawford County,True,0.963081348889244
+Pennsylvania,Cumberland County,True,0.9112918772578307
+Pennsylvania,Dauphin County,True,0.746385329946415
+Pennsylvania,Delaware County,True,0.7228345137569551
+Pennsylvania,Elk County,True,0.9847860538827259
+Pennsylvania,Erie County,True,0.8903173392815148
+Pennsylvania,Fayette County,True,0.9336650449653545
+Pennsylvania,Forest County,True,0.7961392982913786
+Pennsylvania,Franklin County,True,0.9337762353330028
+Pennsylvania,Fulton County,True,0.9738694828053074
+Pennsylvania,Greene County,True,0.9504266771694893
+Pennsylvania,Huntingdon County,True,0.927780075310711
+Pennsylvania,Indiana County,True,0.9513477975016437
+Pennsylvania,Jefferson County,True,0.9822848717719596
+Pennsylvania,Juniata County,True,0.9780356569225828
+Pennsylvania,Lackawanna County,True,0.9331909715260844
+Pennsylvania,Lancaster County,True,0.9130808639713908
+Pennsylvania,Lawrence County,True,0.9385229940692771
+Pennsylvania,Lebanon County,True,0.9410281624535124
+Pennsylvania,Lehigh County,True,0.8556573632281946
+Pennsylvania,Luzerne County,True,0.9269843346509795
+Pennsylvania,Lycoming County,True,0.9268742318721835
+Pennsylvania,McKean County,True,0.9585642404989914
+Pennsylvania,Mercer County,True,0.9184471056158402
+Pennsylvania,Mifflin County,True,0.9778718491437368
+Pennsylvania,Monroe County,True,0.8033152051564592
+Pennsylvania,Montgomery County,True,0.8190893798085248
+Pennsylvania,Montour County,True,0.9477555022880801
+Pennsylvania,Northampton County,True,0.890976953690183
+Pennsylvania,Northumberland County,True,0.9593446858982505
+Pennsylvania,Perry County,True,0.9753397081026673
+Pennsylvania,Philadelphia County,False,0.4565558310346231
+Pennsylvania,Pike County,True,0.9055870929190319
+Pennsylvania,Potter County,True,0.9812823576264437
+Pennsylvania,Schuylkill County,True,0.9528365394422799
+Pennsylvania,Snyder County,True,0.972650736035491
+Pennsylvania,Somerset County,True,0.9627194407266395
+Pennsylvania,Sullivan County,True,0.9565082804519425
+Pennsylvania,Susquehanna County,True,0.9825979014427582
+Pennsylvania,Tioga County,True,0.9741409681283322
+Pennsylvania,Union County,True,0.8891929168891262
+Pennsylvania,Venango County,True,0.9715138561320755
+Pennsylvania,Warren County,True,0.9808486851698829
+Pennsylvania,Washington County,True,0.942687671285383
+Pennsylvania,Wayne County,True,0.9467808680588972
+Pennsylvania,Westmoreland County,True,0.9533207666588698
+Pennsylvania,Wyoming County,True,0.9753955555555556
+Pennsylvania,York County,True,0.902043184133234
+Rhode Island,Bristol County,True,0.9575329643496663
+Rhode Island,Kent County,True,0.9401673107138308
+Rhode Island,Newport County,True,0.9110512457945292
+Rhode Island,Providence County,True,0.8070451025985043
+Rhode Island,Washington County,True,0.9414987375541899
+South Carolina,Abbeville County,True,0.6988566192581969
+South Carolina,Aiken County,True,0.7180736063680809
+South Carolina,Allendale County,False,0.25680816980376453
+South Carolina,Anderson County,True,0.8084602994375644
+South Carolina,Bamberg County,False,0.36801370297532193
+South Carolina,Barnwell County,True,0.5315595173779939
+South Carolina,Beaufort County,True,0.769906396348684
+South Carolina,Berkeley County,True,0.6897740026662311
+South Carolina,Calhoun County,True,0.5521797451374916
+South Carolina,Charleston County,True,0.6711486956474113
+South Carolina,Cherokee County,True,0.7686931838597247
+South Carolina,Chester County,True,0.6012105942358508
+South Carolina,Chesterfield County,True,0.6486128885321997
+South Carolina,Clarendon County,False,0.48764443927001777
+South Carolina,Colleton County,True,0.58354519959112
+South Carolina,Darlington County,True,0.567795242078692
+South Carolina,Dillon County,False,0.4888698085607072
+South Carolina,Dorchester County,True,0.6912615090949922
+South Carolina,Edgefield County,True,0.6082665958173606
+South Carolina,Fairfield County,False,0.39635320806403285
+South Carolina,Florence County,True,0.5520123524806448
+South Carolina,Georgetown County,True,0.6501520211334297
+South Carolina,Greenville County,True,0.7714032142513446
+South Carolina,Greenwood County,True,0.6549544125236538
+South Carolina,Hampton County,False,0.442101707999614
+South Carolina,Horry County,True,0.8257186885594346
+South Carolina,Jasper County,True,0.5146130917818295
+South Carolina,Kershaw County,True,0.7242673596073336
+South Carolina,Lancaster County,True,0.7410385767932329
+South Carolina,Laurens County,True,0.7222717182851879
+South Carolina,Lee County,False,0.3463064222150745
+South Carolina,Lexington County,True,0.8125485381241541
+South Carolina,McCormick County,False,0.48767977471588053
+South Carolina,Marion County,False,0.4151338694272422
+South Carolina,Marlboro County,False,0.42313021851128085
+South Carolina,Newberry County,True,0.6583191398765169
+South Carolina,Oconee County,True,0.8971417851447867
+South Carolina,Orangeburg County,False,0.35014648651012287
+South Carolina,Pickens County,True,0.8976518759923122
+South Carolina,Richland County,False,0.48265495264454206
+South Carolina,Saluda County,True,0.6992912079625999
+South Carolina,Spartanburg County,True,0.7488891582538226
+South Carolina,Sumter County,False,0.4937715174175397
+South Carolina,Union County,True,0.6665368823446127
+South Carolina,Williamsburg County,False,0.3289113622843545
+South Carolina,York County,True,0.7631768491486778
+South Dakota,Aurora County,True,0.962436177972283
+South Dakota,Beadle County,True,0.9048611502281304
+South Dakota,Bennett County,False,0.3378928987194412
+South Dakota,Bon Homme County,True,0.8975672215108835
+South Dakota,Brookings County,True,0.9341996383585154
+South Dakota,Brown County,True,0.9284240979346924
+South Dakota,Brule County,True,0.8819195163423389
+South Dakota,Buffalo County,False,0.17227722772277226
+South Dakota,Butte County,True,0.9469104419241299
+South Dakota,Campbell County,True,0.9820916905444126
+South Dakota,Charles Mix County,True,0.6456163194444444
+South Dakota,Clark County,True,0.9852161785216178
+South Dakota,Clay County,True,0.9090651758545043
+South Dakota,Codington County,True,0.9529812359631964
+South Dakota,Corson County,False,0.3095413294088791
+South Dakota,Custer County,True,0.9360834632449934
+South Dakota,Davison County,True,0.9431938894228338
+South Dakota,Day County,True,0.8859789773739534
+South Dakota,Deuel County,True,0.9776255707762557
+South Dakota,Dewey County,False,0.2211989888046226
+South Dakota,Douglas County,True,0.961952861952862
+South Dakota,Edmunds County,True,0.9808743169398907
+South Dakota,Fall River County,True,0.8876775211590876
+South Dakota,Faulk County,True,0.9856962557846024
+South Dakota,Grant County,True,0.9743766359002617
+South Dakota,Gregory County,True,0.8963657678780774
+South Dakota,Haakon County,True,0.9324394017534812
+South Dakota,Hamlin County,True,0.981750591416019
+South Dakota,Hand County,True,0.9834710743801653
+South Dakota,Hanson County,True,0.9825288717796861
+South Dakota,Harding County,True,0.9627659574468085
+South Dakota,Hughes County,True,0.8522063037249283
+South Dakota,Hutchinson County,True,0.9724502574092111
+South Dakota,Hyde County,True,0.8928322894919972
+South Dakota,Jackson County,False,0.42870573487934815
+South Dakota,Jerauld County,True,0.9824132877381534
+South Dakota,Jones County,True,0.932872655478776
+South Dakota,Kingsbury County,True,0.9737547892720306
+South Dakota,Lake County,True,0.962619998300909
+South Dakota,Lawrence County,True,0.9412222814280444
+South Dakota,Lincoln County,True,0.9580503561371542
+South Dakota,Lyman County,True,0.5771971496437055
+South Dakota,McCook County,True,0.9800356506238859
+South Dakota,McPherson County,True,0.98359983599836
+South Dakota,Marshall County,True,0.8807535859558981
+South Dakota,Meade County,True,0.9168202057423614
+South Dakota,Mellette County,False,0.4145644930985245
+South Dakota,Miner County,True,0.9810834049871023
+South Dakota,Minnehaha County,True,0.8907716654193113
+South Dakota,Moody County,True,0.8203537077257214
+South Dakota,Pennington County,True,0.8405991547433084
+South Dakota,Perkins County,True,0.9677313137965097
+South Dakota,Potter County,True,0.9720220432386605
+South Dakota,Roberts County,True,0.604484130835679
+South Dakota,Sanborn County,True,0.975473321858864
+South Dakota,Shannon County,False,0.053488868340564766
+South Dakota,Spink County,True,0.9723188625018908
+South Dakota,Stanley County,True,0.8895250926237791
+South Dakota,Sully County,True,0.9558514365802383
+South Dakota,Todd County,False,0.10551196942265138
+South Dakota,Tripp County,True,0.834457611668186
+South Dakota,Turner County,True,0.9752046220510352
+South Dakota,Union County,True,0.9566475934028946
+South Dakota,Walworth County,True,0.8261586371130244
+South Dakota,Yankton County,True,0.9308498871831172
+South Dakota,Ziebach County,False,0.24294179156500523
+Tennessee,Anderson County,True,0.9239949082422828
+Tennessee,Bedford County,True,0.8817062734513856
+Tennessee,Benton County,True,0.9522034105494774
+Tennessee,Bledsoe County,True,0.941213258286429
+Tennessee,Blount County,True,0.94358858725851
+Tennessee,Bradley County,True,0.9216583938141476
+Tennessee,Campbell County,True,0.9787481444829292
+Tennessee,Cannon County,True,0.9651002823836072
+Tennessee,Carroll County,True,0.8717506164142304
+Tennessee,Carter County,True,0.9686862522883793
+Tennessee,Cheatham County,True,0.9621858368770849
+Tennessee,Chester County,True,0.882010366315299
+Tennessee,Claiborne County,True,0.9694353415679354
+Tennessee,Clay County,True,0.9678571428571429
+Tennessee,Cocke County,True,0.9554974557926401
+Tennessee,Coffee County,True,0.9306489797452181
+Tennessee,Crockett County,True,0.838815564521644
+Tennessee,Cumberland County,True,0.9752932718441495
+Tennessee,Davidson County,True,0.6581062633523319
+Tennessee,Decatur County,True,0.9504840229589652
+Tennessee,DeKalb County,True,0.9625416644621978
+Tennessee,Dickson County,True,0.9290407097913896
+Tennessee,Dyer County,True,0.8276565154881714
+Tennessee,Fayette County,True,0.7030963035774335
+Tennessee,Fentress County,True,0.9828874024526199
+Tennessee,Franklin County,True,0.9188904149906799
+Tennessee,Gibson County,True,0.7958932817474711
+Tennessee,Giles County,True,0.8705971381397909
+Tennessee,Grainger County,True,0.9794327490531137
+Tennessee,Greene County,True,0.959575117336782
+Tennessee,Grundy County,True,0.9761904761904762
+Tennessee,Hamblen County,True,0.9192936601536353
+Tennessee,Hamilton County,True,0.7567610586175462
+Tennessee,Hancock County,True,0.9803571428571428
+Tennessee,Hardeman County,True,0.5636754230580786
+Tennessee,Hardin County,True,0.9409633911368015
+Tennessee,Hawkins County,True,0.9669888843727358
+Tennessee,Haywood County,False,0.4855263157894737
+Tennessee,Henderson County,True,0.8989758412732398
+Tennessee,Henry County,True,0.8951794935221545
+Tennessee,Hickman County,True,0.9300372362432768
+Tennessee,Houston County,True,0.946867942469987
+Tennessee,Humphreys County,True,0.9523939808481532
+Tennessee,Jackson County,True,0.9789354077440783
+Tennessee,Jefferson County,True,0.9551072023912168
+Tennessee,Johnson County,True,0.963360044211108
+Tennessee,Knox County,True,0.8650702112569141
+Tennessee,Lake County,True,0.6960988296488947
+Tennessee,Lauderdale County,True,0.6273540659499243
+Tennessee,Lawrence County,True,0.9609608896069952
+Tennessee,Lewis County,True,0.9583053127101546
+Tennessee,Lincoln County,True,0.9005760678148226
+Tennessee,Loudon County,True,0.9615809451127668
+Tennessee,McMinn County,True,0.9292963980463981
+Tennessee,McNairy County,True,0.9210466004583652
+Tennessee,Macon County,True,0.9747533114054583
+Tennessee,Madison County,True,0.6030246513136556
+Tennessee,Marion County,True,0.9392739740553533
+Tennessee,Marshall County,True,0.9070686138004728
+Tennessee,Maury County,True,0.8452128308330285
+Tennessee,Meigs County,True,0.9628141562660284
+Tennessee,Monroe County,True,0.9489065650411007
+Tennessee,Montgomery County,True,0.7310482034824468
+Tennessee,Moore County,True,0.9585108061208393
+Tennessee,Morgan County,True,0.944051798823583
+Tennessee,Obion County,True,0.8757179323548181
+Tennessee,Overton County,True,0.9777827850383055
+Tennessee,Perry County,True,0.9521628498727736
+Tennessee,Pickett County,True,0.9880392156862745
+Tennessee,Polk County,True,0.9744696152463143
+Tennessee,Putnam County,True,0.942099441478103
+Tennessee,Rhea County,True,0.9525227152913449
+Tennessee,Roane County,True,0.9466045746133274
+Tennessee,Robertson County,True,0.8976557947737221
+Tennessee,Rutherford County,True,0.8096620927368521
+Tennessee,Scott County,True,0.9833130383800117
+Tennessee,Sequatchie County,True,0.974207862441933
+Tennessee,Sevier County,True,0.9614428398478035
+Tennessee,Shelby County,False,0.4291692709329864
+Tennessee,Smith County,True,0.9567584546120825
+Tennessee,Stewart County,True,0.9452508084530346
+Tennessee,Sullivan County,True,0.9543326572525608
+Tennessee,Sumner County,True,0.900796397849786
+Tennessee,Tipton County,True,0.7822056559436026
+Tennessee,Trousdale County,True,0.8801796023091726
+Tennessee,Unicoi County,True,0.9805319440636139
+Tennessee,Union County,True,0.9780415119987452
+Tennessee,Van Buren County,True,0.9795664534470505
+Tennessee,Warren County,True,0.9418660106930394
+Tennessee,Washington County,True,0.9258397684940924
+Tennessee,Wayne County,True,0.9240409508119558
+Tennessee,Weakley County,True,0.8906101802086627
+Tennessee,White County,True,0.9587838355954298
+Tennessee,Williamson County,True,0.9048835991726755
+Tennessee,Wilson County,True,0.9006144871008146
+Texas,Anderson County,True,0.7531362777109469
+Texas,Andrews County,True,0.9447788049885214
+Texas,Angelina County,True,0.8153818053129673
+Texas,Aransas County,True,0.9331178100596188
+Texas,Archer County,True,0.9658843732112192
+Texas,Armstrong County,True,0.9655349794238683
+Texas,Atascosa County,True,0.9596305386900917
+Texas,Austin County,True,0.8765112866028374
+Texas,Bailey County,True,0.9448807854137448
+Texas,Bandera County,True,0.965720407070166
+Texas,Bastrop County,True,0.8717146181934914
+Texas,Baylor County,True,0.948385316036434
+Texas,Bee County,True,0.888953792234144
+Texas,Bell County,True,0.6842590786813895
+Texas,Bexar County,True,0.8563938928288227
+Texas,Blanco County,True,0.9540122008446739
+Texas,Borden County,True,0.9626623376623377
+Texas,Bosque County,True,0.9534344827586206
+Texas,Bowie County,True,0.7155065057757547
+Texas,Brazoria County,True,0.7858231543035203
+Texas,Brazos County,True,0.8081279744848379
+Texas,Brewster County,True,0.9409617861743237
+Texas,Briscoe County,True,0.9500320307495196
+Texas,Brooks County,True,0.9777963971512359
+Texas,Brown County,True,0.9340383344348976
+Texas,Burleson County,True,0.84703024694928
+Texas,Burnet County,True,0.9498020622353158
+Texas,Caldwell County,True,0.8865596117106418
+Texas,Calhoun County,True,0.9042528576056272
+Texas,Callahan County,True,0.9564252422874898
+Texas,Cameron County,True,0.9734597179207666
+Texas,Camp County,True,0.7882560848260904
+Texas,Carson County,True,0.9624817281143414
+Texas,Cass County,True,0.8035868195982232
+Texas,Castro County,True,0.9468397844194023
+Texas,Chambers County,True,0.8791579180019892
+Texas,Cherokee County,True,0.810686247705347
+Texas,Childress County,True,0.8722435623844075
+Texas,Clay County,True,0.9564309444708116
+Texas,Cochran County,True,0.9172685489166119
+Texas,Coke County,True,0.957288765088208
+Texas,Coleman County,True,0.9393659942363113
+Texas,Collin County,True,0.756155333664014
+Texas,Collingsworth County,True,0.9015151515151515
+Texas,Colorado County,True,0.836876691148048
+Texas,Comal County,True,0.9466708630577703
+Texas,Comanche County,True,0.9682528151107882
+Texas,Concho County,True,0.9511221945137157
+Texas,Cooke County,True,0.9283240281224152
+Texas,Coryell County,True,0.7498672812730639
+Texas,Cottle County,True,0.8862718707940781
+Texas,Crane County,True,0.9318281455501973
+Texas,Crockett County,True,0.952978893935346
+Texas,Crosby County,True,0.9291544237675482
+Texas,Culberson County,True,0.9353711790393013
+Texas,Dallam County,True,0.9421097770154374
+Texas,Dallas County,True,0.6870712592451921
+Texas,Dawson County,True,0.8964809384164223
+Texas,Deaf Smith County,True,0.9502582644628099
+Texas,Delta County,True,0.8699568399324451
+Texas,Denton County,True,0.8041068621130377
+Texas,DeWitt County,True,0.8805277302711947
+Texas,Dickens County,True,0.9078777442961687
+Texas,Dimmit County,True,0.9636746008985757
+Texas,Donley County,True,0.9260700389105059
+Texas,Duval County,True,0.9710676794401297
+Texas,Eastland County,True,0.9517398621138917
+Texas,Ector County,True,0.9153784860557769
+Texas,Edwards County,True,0.9588414634146342
+Texas,Ellis County,True,0.876059466515987
+Texas,El Paso County,True,0.9244680311047404
+Texas,Erath County,True,0.9497978179598687
+Texas,Falls County,True,0.7146507666098807
+Texas,Fannin County,True,0.8934113682717034
+Texas,Fayette County,True,0.9078355942498482
+Texas,Fisher County,True,0.9375650364203955
+Texas,Floyd County,True,0.9379613632794095
+Texas,Foard County,True,0.9410864575363428
+Texas,Fort Bend County,True,0.5791472246621595
+Texas,Franklin County,True,0.9234022556390977
+Texas,Freestone County,True,0.7997437868306431
+Texas,Frio County,True,0.9211388543667383
+Texas,Gaines County,True,0.9522619888122522
+Texas,Galveston County,True,0.800924508459685
+Texas,Garza County,True,0.9148471615720524
+Texas,Gillespie County,True,0.9703415099590507
+Texas,Glasscock County,True,0.9706115965051628
+Texas,Goliad County,True,0.9234117807101074
+Texas,Gonzales County,True,0.8897979546021452
+Texas,Gray County,True,0.9084776742971538
+Texas,Grayson County,True,0.8863246811825973
+Texas,Gregg County,True,0.75646105431362
+Texas,Grimes County,True,0.8079378710375985
+Texas,Guadalupe County,True,0.8754514055248461
+Texas,Hale County,True,0.9077916723924694
+Texas,Hall County,True,0.9013058001822046
+Texas,Hamilton County,True,0.960755988925003
+Texas,Hansford County,True,0.9617822858177867
+Texas,Hardeman County,True,0.9064184223419892
+Texas,Hardin County,True,0.919206377967023
+Texas,Harris County,True,0.7095088981357407
+Texas,Harrison County,True,0.7410526315789474
+Texas,Hartley County,True,0.9091796875
+Texas,Haskell County,True,0.9235722758854431
+Texas,Hays County,True,0.9138351381738564
+Texas,Hemphill County,True,0.9642156862745098
+Texas,Henderson County,True,0.9043795989582016
+Texas,Hidalgo County,True,0.9717141610212361
+Texas,Hill County,True,0.900299017513883
+Texas,Hockley County,True,0.9287014563106796
+Texas,Hood County,True,0.9644723695334717
+Texas,Hopkins County,True,0.8944994220305055
+Texas,Houston County,True,0.7142178662406632
+Texas,Howard County,True,0.8880478987799367
+Texas,Hudspeth County,True,0.9487563679952052
+Texas,Hunt County,True,0.8699227138575316
+Texas,Hutchinson County,True,0.9252349238208193
+Texas,Irion County,True,0.9624920534011443
+Texas,Jack County,True,0.9354335967939441
+Texas,Jackson County,True,0.9005962820063136
+Texas,Jasper County,True,0.8047490465718342
+Texas,Jeff Davis County,True,0.9553532726484613
+Texas,Jefferson County,True,0.5964346558755902
+Texas,Jim Hogg County,True,0.9777100400076205
+Texas,Jim Wells County,True,0.9682904631891556
+Texas,Johnson County,True,0.9326125351112153
+Texas,Jones County,True,0.8366795173484204
+Texas,Karnes County,True,0.8817698417908488
+Texas,Kaufman County,True,0.8571281369141851
+Texas,Kendall County,True,0.9619813104905997
+Texas,Kenedy County,True,0.9443155452436195
+Texas,Kent County,True,0.9606674612634089
+Texas,Kerr County,True,0.9422528421644639
+Texas,Kimble County,True,0.9708333333333333
+Texas,King County,True,0.9601449275362319
+Texas,Kinney County,True,0.9530946433527616
+Texas,Kleberg County,True,0.9081967213114754
+Texas,Knox County,True,0.9057798891528107
+Texas,Lamar County,True,0.8138363012186063
+Texas,Lamb County,True,0.9167618503712165
+Texas,Lampasas County,True,0.9094345252897001
+Texas,La Salle County,True,0.9729919819946546
+Texas,Lavaca County,True,0.9062050544483254
+Texas,Lee County,True,0.8601891452322149
+Texas,Leon County,True,0.8982919716717253
+Texas,Liberty County,True,0.8580141306761045
+Texas,Limestone County,True,0.7894000423998304
+Texas,Lipscomb County,True,0.9359195402298851
+Texas,Live Oak County,True,0.9272119341563786
+Texas,Llano County,True,0.9635839664658108
+Texas,Loving County,True,0.9577464788732394
+Texas,Lubbock County,True,0.8718470044792833
+Texas,Lynn County,True,0.9422445097700156
+Texas,McCulloch County,True,0.9450258631059786
+Texas,McLennan County,True,0.8037803667257349
+Texas,McMullen County,True,0.9545454545454546
+Texas,Madison County,True,0.7617898661987278
+Texas,Marion County,True,0.7404106935296397
+Texas,Martin County,True,0.9513653577835359
+Texas,Mason County,True,0.9737696727454409
+Texas,Matagorda County,True,0.8363750786658276
+Texas,Maverick County,True,0.9731780005418585
+Texas,Medina County,True,0.9428632524323747
+Texas,Menard County,True,0.9647321428571428
+Texas,Midland County,True,0.8914930614749906
+Texas,Milam County,True,0.8676988036593948
+Texas,Mills County,True,0.96996685998343
+Texas,Mitchell County,True,0.8371893744644388
+Texas,Montague County,True,0.9637618195757731
+Texas,Montgomery County,True,0.902213599919183
+Texas,Moore County,True,0.8708824452113118
+Texas,Morris County,True,0.7378587628059748
+Texas,Motley County,True,0.956738768718802
+Texas,Nacogdoches County,True,0.7760547596692613
+Texas,Navarro County,True,0.8180870797640635
+Texas,Newton County,True,0.7653521126760563
+Texas,Nolan County,True,0.9167113374430448
+Texas,Nueces County,True,0.9153213629343296
+Texas,Ochiltree County,True,0.9606636838180462
+Texas,Oldham County,True,0.9276699029126214
+Texas,Orange County,True,0.8821360135941285
+Texas,Palo Pinto County,True,0.9465824238943136
+Texas,Panola County,True,0.8094920899250625
+Texas,Parker County,True,0.9489190724405239
+Texas,Parmer County,True,0.9507021506432289
+Texas,Pecos County,True,0.9299571035277546
+Texas,Polk County,True,0.8436788154897494
+Texas,Potter County,True,0.8168471819185025
+Texas,Presidio County,True,0.9585382059800664
+Texas,Rains County,True,0.9407840628712419
+Texas,Randall County,True,0.9299899266081451
+Texas,Reagan County,True,0.936115107913669
+Texas,Real County,True,0.9498367468091422
+Texas,Red River County,True,0.7915550653852214
+Texas,Reeves County,True,0.9212204667343094
+Texas,Refugio County,True,0.9012260641961702
+Texas,Roberts County,True,0.9648711943793911
+Texas,Robertson County,True,0.7492293744333636
+Texas,Rockwall County,True,0.8872935763240626
+Texas,Runnels County,True,0.9464063546750885
+Texas,Rusk County,True,0.7908784659238145
+Texas,Sabine County,True,0.9016581999424902
+Texas,San Augustine County,True,0.7458607393966886
+Texas,San Jacinto County,True,0.8620880336208804
+Texas,San Patricio County,True,0.9447256097560975
+Texas,San Saba County,True,0.9366877707430856
+Texas,Schleicher County,True,0.961703431372549
+Texas,Scurry County,True,0.9170851337148196
+Texas,Shackelford County,True,0.9615613825983313
+Texas,Shelby County,True,0.7994542449748261
+Texas,Sherman County,True,0.9681093394077449
+Texas,Smith County,True,0.7812923317552753
+Texas,Somervell County,True,0.9483600837404047
+Texas,Starr County,True,0.9898239065162704
+Texas,Stephens County,True,0.9538250211327134
+Texas,Sterling County,True,0.9462636439966414
+Texas,Stonewall County,True,0.9261016949152543
+Texas,Sutton County,True,0.9729113924050633
+Texas,Swisher County,True,0.8884805474591306
+Texas,Tarrant County,True,0.7617380074919434
+Texas,Taylor County,True,0.8696065871000127
+Texas,Terrell County,True,0.9323882224645583
+Texas,Terry County,True,0.9224609529850155
+Texas,Throckmorton County,True,0.9718925671455341
+Texas,Titus County,True,0.8500443927379604
+Texas,Tom Green County,True,0.9106558028265993
+Texas,Travis County,True,0.8103842334316675
+Texas,Trinity County,True,0.8795862743727724
+Texas,Tyler County,True,0.862289122937832
+Texas,Upshur County,True,0.8764845605700713
+Texas,Upton County,True,0.9357295156868718
+Texas,Uvalde County,True,0.9628812799043063
+Texas,Val Verde County,True,0.9565547685042604
+Texas,Van Zandt County,True,0.9406221984855132
+Texas,Victoria County,True,0.8959997311496712
+Texas,Walker County,True,0.7375453163372705
+Texas,Waller County,True,0.7206754289063733
+Texas,Ward County,True,0.9110212335692619
+Texas,Washington County,True,0.7864370985246238
+Texas,Webb County,True,0.9772274782769743
+Texas,Wharton County,True,0.8348068305680029
+Texas,Wheeler County,True,0.9374333451830785
+Texas,Wichita County,True,0.833033087816113
+Texas,Wilbarger County,True,0.8701915824407904
+Texas,Willacy County,True,0.9536222685646931
+Texas,Williamson County,True,0.8453045818793947
+Texas,Wilson County,True,0.9541807527608744
+Texas,Winkler County,True,0.9383356070941337
+Texas,Wise County,True,0.9570095313741064
+Texas,Wood County,True,0.9228023416305745
+Texas,Yoakum County,True,0.9520743034055728
+Texas,Young County,True,0.9521784175800208
+Texas,Zapata County,True,0.987333799860042
+Texas,Zavala County,True,0.9698185770420533
+Utah,Beaver County,True,0.9506229810798339
+Utah,Box Elder County,True,0.9551533754559407
+Utah,Cache County,True,0.9383396814404432
+Utah,Carbon County,True,0.9539678057046033
+Utah,Daggett County,True,0.9669724770642202
+Utah,Davis County,True,0.9305846255173221
+Utah,Duchesne County,True,0.9190916649345251
+Utah,Emery County,True,0.9730174700448184
+Utah,Garfield County,True,0.9525024533856722
+Utah,Grand County,True,0.9227058319039451
+Utah,Iron County,True,0.9381176470588235
+Utah,Juab County,True,0.9661541436998357
+Utah,Kane County,True,0.96039329732724
+Utah,Millard County,True,0.9564802291351738
+Utah,Morgan County,True,0.9790245392526219
+Utah,Piute County,True,0.9730971128608924
+Utah,Rich County,True,0.9810322011468902
+Utah,Salt Lake County,True,0.8905175768582176
+Utah,San Juan County,False,0.4933511526896091
+Utah,Sanpete County,True,0.9456389306959077
+Utah,Sevier County,True,0.9668013856812933
+Utah,Summit County,True,0.9584243349209273
+Utah,Tooele County,True,0.9481042258226157
+Utah,Uintah County,True,0.8863689027922604
+Utah,Utah County,True,0.9379782573301956
+Utah,Wasatch County,True,0.9629644284414197
+Utah,Washington County,True,0.9391267117375302
+Utah,Wayne County,True,0.9605407380343441
+Utah,Weber County,True,0.9305485125084516
+Vermont,Addison County,True,0.9557762960947067
+Vermont,Bennington County,True,0.9674632803771426
+Vermont,Caledonia County,True,0.9662607242697857
+Vermont,Chittenden County,True,0.9230997324988643
+Vermont,Essex County,True,0.9718920655316415
+Vermont,Franklin County,True,0.9569004853362094
+Vermont,Grand Isle County,True,0.9540312186739224
+Vermont,Lamoille County,True,0.9667441301386329
+Vermont,Orange County,True,0.9705434932927672
+Vermont,Orleans County,True,0.9689770924785127
+Vermont,Rutland County,True,0.972777604363469
+Vermont,Washington County,True,0.9613890523837552
+Vermont,Windham County,True,0.9558485847447994
+Vermont,Windsor County,True,0.9660030954795324
+Virginia,Accomack County,True,0.6894514261719804
+Virginia,Albemarle County,True,0.824441814749978
+Virginia,Alleghany County,True,0.9320394331484905
+Virginia,Amelia County,True,0.7459832275256681
+Virginia,Amherst County,True,0.7766798418972332
+Virginia,Appomattox County,True,0.7766393442622951
+Virginia,Arlington County,True,0.7734533692234613
+Virginia,Augusta County,True,0.9394634662901518
+Virginia,Bath County,True,0.9352966466036113
+Virginia,Bedford County,True,0.9137807156200604
+Virginia,Bland County,True,0.9550311665182547
+Virginia,Botetourt County,True,0.9473366712915485
+Virginia,Brunswick County,False,0.4163433274544386
+Virginia,Buchanan County,True,0.9633681210444696
+Virginia,Buckingham County,True,0.6248829588014981
+Virginia,Campbell County,True,0.8271848884215869
+Virginia,Caroline County,True,0.6673339776335773
+Virginia,Carroll County,True,0.9809051623061203
+Virginia,Charles City County,False,0.41735363979320944
+Virginia,Charlotte County,True,0.6801838116736537
+Virginia,Chesterfield County,True,0.7041061459414061
+Virginia,Clarke County,True,0.9089576206102074
+Virginia,Craig County,True,0.985421062727796
+Virginia,Culpeper County,True,0.7914675126797603
+Virginia,Cumberland County,True,0.6426033099807087
+Virginia,Dickenson County,True,0.9882090503505417
+Virginia,Dinwiddie County,True,0.6472815603343574
+Virginia,Essex County,True,0.5754473426511172
+Virginia,Fairfax County,True,0.6770728105259959
+Virginia,Fauquier County,True,0.874274894051877
+Virginia,Floyd County,True,0.9640675763482781
+Virginia,Fluvanna County,True,0.8146108522355298
+Virginia,Franklin County,True,0.8954281966283172
+Virginia,Frederick County,True,0.9182613892451162
+Virginia,Giles County,True,0.9699314744801513
+Virginia,Gloucester County,True,0.8798460120370872
+Virginia,Goochland County,True,0.7928514545369373
+Virginia,Grayson County,True,0.9646973588882303
+Virginia,Greene County,True,0.893932129348463
+Virginia,Greensville County,False,0.3873934689055776
+Virginia,Halifax County,True,0.6141593907779854
+Virginia,Hanover County,True,0.870266618985179
+Virginia,Henrico County,True,0.6023014492017325
+Virginia,Henry County,True,0.7564046895353886
+Virginia,Highland County,True,0.9897550111358575
+Virginia,Isle of Wight County,True,0.7239470041526597
+Virginia,James City County,True,0.8128670233589977
+Virginia,King and Queen County,True,0.6893272778881635
+Virginia,King George County,True,0.7718775510204081
+Virginia,King William County,True,0.7761091295913898
+Virginia,Lancaster County,True,0.7023851904592382
+Virginia,Lee County,True,0.9466907435031797
+Virginia,Loudoun County,True,0.7231476589353454
+Virginia,Louisa County,True,0.7953933592581514
+Virginia,Lunenburg County,True,0.6329043533523991
+Virginia,Madison County,True,0.8693939393939394
+Virginia,Mathews County,True,0.8827104907699235
+Virginia,Mecklenburg County,True,0.6175312608271126
+Virginia,Middlesex County,True,0.7936610608020699
+Virginia,Montgomery County,True,0.8791100279429376
+Virginia,Nelson County,True,0.8425170297430363
+Virginia,New Kent County,True,0.8215869372424227
+Virginia,Northampton County,True,0.606494356289874
+Virginia,Northumberland County,True,0.7289810464927912
+Virginia,Nottoway County,True,0.5795325331648769
+Virginia,Orange County,True,0.8302283478362437
+Virginia,Page County,True,0.9617911697007743
+Virginia,Patrick County,True,0.9227684136361173
+Virginia,Pittsylvania County,True,0.7627812186539716
+Virginia,Powhatan County,True,0.847135796323294
+Virginia,Prince Edward County,True,0.635166537567777
+Virginia,Prince George County,True,0.6192577353076527
+Virginia,Prince William County,True,0.6525265577321289
+Virginia,Pulaski County,True,0.9251784891754952
+Virginia,Rappahannock County,True,0.9275751072961373
+Virginia,Richmond County,True,0.6692791698863009
+Virginia,Roanoke County,True,0.8981819356088739
+Virginia,Rockbridge County,True,0.9455657765472895
+Virginia,Rockingham County,True,0.9551498236229019
+Virginia,Russell County,True,0.9801371066971348
+Virginia,Scott County,True,0.9819147535226724
+Virginia,Shenandoah County,True,0.9537843740459808
+Virginia,Smyth County,True,0.9634592345040671
+Virginia,Southampton County,True,0.6069857135096963
+Virginia,Spotsylvania County,True,0.7823668883867477
+Virginia,Stafford County,True,0.7494640943193998
+Virginia,Surry County,True,0.5214786674459381
+Virginia,Sussex County,False,0.4061977948546609
+Virginia,Tazewell County,True,0.9493765248034698
+Virginia,Warren County,True,0.9161019175203572
+Virginia,Washington County,True,0.9711723138249683
+Virginia,Westmoreland County,True,0.6843186487103401
+Virginia,Wise County,True,0.9337944181045017
+Virginia,Wythe County,True,0.9510102218727565
+Virginia,York County,True,0.7737882865177033
+Virginia,Alexandria city,True,0.6706905272943525
+Virginia,Bedford city,True,0.7672702883970489
+Virginia,Bristol city,True,0.9136564375495414
+Virginia,Buena Vista city,True,0.9144177724765171
+Virginia,Charlottesville city,True,0.702998452998453
+Virginia,Chesapeake city,True,0.6318049882451832
+Virginia,Colonial Heights city,True,0.8193832599118943
+Virginia,Covington city,True,0.8391959798994975
+Virginia,Danville city,False,0.4781375011628989
+Virginia,Emporia city,False,0.33310104529616724
+Virginia,Fairfax city,True,0.7422104769617663
+Virginia,Falls Church city,True,0.8123062967722428
+Virginia,Franklin city,False,0.3946998123827392
+Virginia,Fredericksburg city,True,0.6816200974109202
+Virginia,Galax city,True,0.9046033584250145
+Virginia,Hampton city,False,0.4364056242509281
+Virginia,Harrisonburg city,True,0.8511406210156726
+Virginia,Hopewell city,True,0.5684177555038482
+Virginia,Lexington city,True,0.8545298656759074
+Virginia,Lynchburg city,True,0.6565040913983375
+Virginia,Manassas city,True,0.7433813569757419
+Virginia,Manassas Park city,True,0.7097100898847956
+Virginia,Martinsville city,True,0.5137988786135586
+Virginia,Newport News city,True,0.5111605413720217
+Virginia,Norfolk city,False,0.49124834202667406
+Virginia,Norton city,True,0.893559488692232
+Virginia,Petersburg city,False,0.17664904763394113
+Virginia,Poquoson city,True,0.9498222699842936
+Virginia,Portsmouth city,False,0.41859645485643204
+Virginia,Radford city,True,0.8682649086005394
+Virginia,Richmond city,False,0.44198774184652107
+Virginia,Roanoke city,True,0.6610306866798674
+Virginia,Salem city,True,0.8894673608329996
+Virginia,Staunton city,True,0.8406003093516158
+Virginia,Suffolk city,True,0.524753172655874
+Virginia,Virginia Beach city,True,0.6914977148724557
+Virginia,Waynesboro city,True,0.8408584829677358
+Virginia,Williamsburg city,True,0.7582910265708446
+Virginia,Winchester city,True,0.8259365350991407
+Washington,Adams County,True,0.9210207840042094
+Washington,Asotin County,True,0.9488304093567251
+Washington,Benton County,True,0.9146317393831073
+Washington,Chelan County,True,0.9443185365125463
+Washington,Clallam County,True,0.8817054673475919
+Washington,Clark County,True,0.8787073310410758
+Washington,Columbia County,True,0.946683354192741
+Washington,Cowlitz County,True,0.9208596415545708
+Washington,Douglas County,True,0.9399745870393901
+Washington,Ferry County,True,0.7669046073977936
+Washington,Franklin County,True,0.9127264255343934
+Washington,Garfield County,True,0.9573608617594255
+Washington,Grant County,True,0.929516042868201
+Washington,Grays Harbor County,True,0.8815767449645706
+Washington,Island County,True,0.8693054801268045
+Washington,Jefferson County,True,0.9139478796811148
+Washington,King County,True,0.7131834575379588
+Washington,Kitsap County,True,0.8358726386421481
+Washington,Kittitas County,True,0.9234258014974084
+Washington,Klickitat County,True,0.9292719455046138
+Washington,Lewis County,True,0.9329022361513336
+Washington,Lincoln County,True,0.9454824183194405
+Washington,Mason County,True,0.8885455023671752
+Washington,Okanogan County,True,0.8306965475469412
+Washington,Pacific County,True,0.905321992709599
+Washington,Pend Oreille County,True,0.9188751926040062
+Washington,Pierce County,True,0.7682192881193474
+Washington,San Juan County,True,0.9479903943377148
+Washington,Skagit County,True,0.9129519040449324
+Washington,Skamania County,True,0.9353714132475195
+Washington,Snohomish County,True,0.8123489160150388
+Washington,Spokane County,True,0.901829800203895
+Washington,Stevens County,True,0.898433552299141
+Washington,Thurston County,True,0.8389088459811406
+Washington,Wahkiakum County,True,0.9446531430002504
+Washington,Walla Walla County,True,0.9265874351895496
+Washington,Whatcom County,True,0.8790521382428311
+Washington,Whitman County,True,0.8524438913444621
+Washington,Yakima County,True,0.8842645266563284
+West Virginia,Barbour County,True,0.9687746316619171
+West Virginia,Berkeley County,True,0.8873181572018152
+West Virginia,Boone County,True,0.9854154751205164
+West Virginia,Braxton County,True,0.9806469449820293
+West Virginia,Brooke County,True,0.9690604955351528
+West Virginia,Cabell County,True,0.914884402004661
+West Virginia,Calhoun County,True,0.9840935980018404
+West Virginia,Clay County,True,0.9858018715714747
+West Virginia,Doddridge County,True,0.9684519442406456
+West Virginia,Fayette County,True,0.934879766290959
+West Virginia,Gilmer County,True,0.8432203389830508
+West Virginia,Grant County,True,0.9793500338524035
+West Virginia,Greenbrier County,True,0.94821328866555
+West Virginia,Hampshire County,True,0.9719515795689401
+West Virginia,Hancock County,True,0.9575647582907111
+West Virginia,Hardy County,True,0.9495168036924853
+West Virginia,Harrison County,True,0.9606745635729885
+West Virginia,Jackson County,True,0.9812204966819457
+West Virginia,Jefferson County,True,0.8876963158667254
+West Virginia,Kanawha County,True,0.8899619625453353
+West Virginia,Lewis County,True,0.9776433938061205
+West Virginia,Lincoln County,True,0.988579090951126
+West Virginia,Logan County,True,0.9646925458969254
+West Virginia,McDowell County,True,0.8935102691550221
+West Virginia,Marion County,True,0.9432407636119835
+West Virginia,Marshall County,True,0.9789128971047316
+West Virginia,Mason County,True,0.9759740976489201
+West Virginia,Mercer County,True,0.9146873950386258
+West Virginia,Mineral County,True,0.9517098297324367
+West Virginia,Mingo County,True,0.9677814810558173
+West Virginia,Monongalia County,True,0.9118127815652035
+West Virginia,Monroe County,True,0.9748198766991012
+West Virginia,Morgan County,True,0.9719535229809398
+West Virginia,Nicholas County,True,0.9819665256014335
+West Virginia,Ohio County,True,0.9347929665343165
+West Virginia,Pendleton County,True,0.9603489294210944
+West Virginia,Pleasants County,True,0.9727452271231073
+West Virginia,Pocahontas County,True,0.9771053842613898
+West Virginia,Preston County,True,0.9760581697800899
+West Virginia,Putnam County,True,0.9675378754319128
+West Virginia,Raleigh County,True,0.8901684362384683
+West Virginia,Randolph County,True,0.9718213994010346
+West Virginia,Ritchie County,True,0.98642047674873
+West Virginia,Roane County,True,0.9825660582947425
+West Virginia,Summers County,True,0.9301157457960253
+West Virginia,Taylor County,True,0.9745159201930433
+West Virginia,Tucker County,True,0.9838456040028591
+West Virginia,Tyler County,True,0.98694256943676
+West Virginia,Upshur County,True,0.9758548841769825
+West Virginia,Wayne County,True,0.9835770366635453
+West Virginia,Webster County,True,0.9841866637177927
+West Virginia,Wetzel County,True,0.9849592010717331
+West Virginia,Wirt County,True,0.9811869334701556
+West Virginia,Wood County,True,0.9656290008189063
+West Virginia,Wyoming County,True,0.9815666222661453
+Wisconsin,Adams County,True,0.9392136950529523
+Wisconsin,Ashland County,True,0.8459854927463731
+Wisconsin,Barron County,True,0.9632213062777425
+Wisconsin,Bayfield County,True,0.8637658123054507
+Wisconsin,Brown County,True,0.8950923203389295
+Wisconsin,Buffalo County,True,0.981849546238656
+Wisconsin,Burnett County,True,0.9178910414770511
+Wisconsin,Calumet County,True,0.9561187895394286
+Wisconsin,Chippewa County,True,0.9541336893296463
+Wisconsin,Clark County,True,0.9776971104980398
+Wisconsin,Columbia County,True,0.9630520525654858
+Wisconsin,Crawford County,True,0.9666666666666667
+Wisconsin,Dane County,True,0.8660378969778938
+Wisconsin,Dodge County,True,0.9529604705083979
+Wisconsin,Door County,True,0.9720314915339541
+Wisconsin,Douglas County,True,0.93189448441247
+Wisconsin,Dunn County,True,0.950558177527682
+Wisconsin,Eau Claire County,True,0.9328744400409229
+Wisconsin,Florence County,True,0.9705488621151271
+Wisconsin,Fond du Lac County,True,0.9560696365975079
+Wisconsin,Forest County,True,0.8230501846621768
+Wisconsin,Grant County,True,0.9709123651809658
+Wisconsin,Green County,True,0.9777831965103362
+Wisconsin,Green Lake County,True,0.9776248752560533
+Wisconsin,Iowa County,True,0.9792077960263788
+Wisconsin,Iron County,True,0.9772497472194136
+Wisconsin,Jackson County,True,0.8940200146448621
+Wisconsin,Jefferson County,True,0.967679708395465
+Wisconsin,Juneau County,True,0.9464158311741955
+Wisconsin,Kenosha County,True,0.8814965224847561
+Wisconsin,Kewaunee County,True,0.977744375484872
+Wisconsin,La Crosse County,True,0.9224633138990735
+Wisconsin,Lafayette County,True,0.979706877113867
+Wisconsin,Langlade County,True,0.9653364552580678
+Wisconsin,Lincoln County,True,0.9749929557621866
+Wisconsin,Manitowoc County,True,0.9498332734191965
+Wisconsin,Marathon County,True,0.918833265298549
+Wisconsin,Marinette County,True,0.9723071000649616
+Wisconsin,Marquette County,True,0.974613613942782
+Wisconsin,Menominee County,False,0.12211981566820276
+Wisconsin,Milwaukee County,True,0.6559817002632943
+Wisconsin,Monroe County,True,0.953569844789357
+Wisconsin,Oconto County,True,0.969739864323487
+Wisconsin,Oneida County,True,0.9669597356778854
+Wisconsin,Outagamie County,True,0.9243076682176091
+Wisconsin,Ozaukee County,True,0.9515911682388307
+Wisconsin,Pepin County,True,0.9829499323410014
+Wisconsin,Pierce County,True,0.9674621453422845
+Wisconsin,Polk County,True,0.9698234349919743
+Wisconsin,Portage County,True,0.9485468459386935
+Wisconsin,Price County,True,0.9705818732424832
+Wisconsin,Racine County,True,0.8455879710673162
+Wisconsin,Richland County,True,0.9750252553597486
+Wisconsin,Rock County,True,0.9114750215063148
+Wisconsin,Rusk County,True,0.9756216820340877
+Wisconsin,St. Croix County,True,0.9648060815091152
+Wisconsin,Sauk County,True,0.9614039011454223
+Wisconsin,Sawyer County,True,0.7905433930402268
+Wisconsin,Shawano County,True,0.8924940514817218
+Wisconsin,Sheboygan County,True,0.9176499230495004
+Wisconsin,Taylor County,True,0.9822805818607829
+Wisconsin,Trempealeau County,True,0.9767211659896918
+Wisconsin,Vernon County,True,0.9808327825512227
+Wisconsin,Vilas County,True,0.8712625363201799
+Wisconsin,Walworth County,True,0.9629755665963384
+Wisconsin,Washburn County,True,0.9629723240237583
+Wisconsin,Washington County,True,0.9641567604646429
+Wisconsin,Waukesha County,True,0.9412172565333986
+Wisconsin,Waupaca County,True,0.9779210066946731
+Wisconsin,Waushara County,True,0.9563386615428642
+Wisconsin,Winnebago County,True,0.9342038224107492
+Wisconsin,Wood County,True,0.9563581640331076
+Wyoming,Albany County,True,0.923060414207533
+Wyoming,Big Horn County,True,0.9607427505511277
+Wyoming,Campbell County,True,0.9529180766177884
+Wyoming,Carbon County,True,0.9449125494701902
+Wyoming,Converse County,True,0.9610222729868646
+Wyoming,Crook County,True,0.9677148846960167
+Wyoming,Fremont County,True,0.7532960350279737
+Wyoming,Goshen County,True,0.9630390143737166
+Wyoming,Hot Springs County,True,0.9566569888013272
+Wyoming,Johnson County,True,0.9568195008705745
+Wyoming,Laramie County,True,0.9151487569192341
+Wyoming,Lincoln County,True,0.9658704971883525
+Wyoming,Natrona County,True,0.9421528599229213
+Wyoming,Niobrara County,True,0.9617263843648208
+Wyoming,Park County,True,0.9615009407009965
+Wyoming,Platte County,True,0.9679077204202833
+Wyoming,Sheridan County,True,0.9552980132450332
+Wyoming,Sublette County,True,0.9534143518518519
+Wyoming,Sweetwater County,True,0.9453685908056642
+Wyoming,Teton County,True,0.9528950403690888
+Wyoming,Uinta County,True,0.9603804994054697
+Wyoming,Washakie County,True,0.9533317580340265
+Wyoming,Weston County,True,0.954250211804575
