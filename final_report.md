@@ -2,11 +2,11 @@
 
 Christopher Archer (caa234), Zoe Pan (zp45), Jia Jiunn Ang (ja497)
 
-**I. Introduction**
+### I. Introduction
 
 On any campaign, it is vital to strategically allocate resources to ensure a victory while minimizing overall cost. We have data consisting of electoral numbers for every county in America along with demographic information such as education level, migration rate, and median income. In this paper, our goal is to create an understanding of this dataset, with the intention of ultimately creating a classifier for _swing counties_, counties that are most likely to switch their vote from election to election. This could be especially useful for campaigns, as those counties would be the target of the bulk of their advertising resources.
 
-**II. The Dataset**
+### II. The Dataset
 
 Our data is split into three separate files. The first two, _county\_data\_2012.csv_ and _county\_data\_2016.csv_, are simply the demographic info of all counties from the 2012 and 2016 presidential elections. The columns of this dataset are: County, Democratic votes (DEM), Republican votes (GOP), Median Income, Migration Rate, Birth Rate, Death Rate, Bachelor Rate (% with bachelor&#39;s degree), and Unemployment Rate. Some extra preprocessing was done such that only counties eligible to vote are included, leaving us with 3143 counties overall. These data were also merged with county geodata such as county latitude, longitude, primary city, and estimated population. It is important to note that after preprocessing, 73 counties had missing electoral information - this could be a source of bias. We use the geocoded data to reconstruct an &quot;election map&quot; below.
 
@@ -17,7 +17,7 @@ Our data is split into three separate files. The first two, _county\_data\_2012.
 
 Our third dataset _county\_graph.csv_ contains pairs of counties, where pair _(i,j)_ represents whether county _i_ shares a border with county _j_. This can be used to represent the United States counties as an undirected graph, which has many interesting implications for modeling.
 
-**Understanding the Data**
+### III. Understanding the Data
 
 For some initial data visualizations, we decided to focus on the 2016 dataset (since demographics haven&#39;t changed that much since 2012). Our group thought it would be interesting to create distributions of each column based on region and see if there was anything significantly different, and if we could find a location reason for voting preference.
 
@@ -48,7 +48,7 @@ We were also curious to see the number of GOP and Democrat numbers in each regio
   <img src="final_images/image19.png" width="400"/>
 </p>
 
-**III. Solving the Problem**
+### IV. Solving the Problem
 
 **Introduction**
 
@@ -139,7 +139,7 @@ After creating our map, our model shows a 94.18% weighted accuracy of the swing 
 
 Looking at the three models we used, the kNN seemed to have the highest test accuracy of 95.24%, whereas the graph neural network had the highest weighted accuracy with 94.08%. The slight differences between our models and actual results can be explained by a few reasons. First, there is bias present given that 2012 was a year in which Obama, a Democrat, won the election. In addition, the 2016 election results were unexpected to most predictions, so more counties swung Republican than most models could have predicted. These errors could possibly be alleviated by training our models on multiple datasets which include what both Republican and Democrat election victories look like.
 
-**V. Other Considerations**
+### V. Other Considerations
 
 **Weapon of Math Destruction**
 
@@ -166,7 +166,7 @@ Our method is as follows. We aim to test whether our classifier assigns decision
 
 These results seem to indicate that counties that are not majority white have higher incidences of true positives (correctly predicts Democrat win) than majority white counties. However, this should be taken with a grain of salt since while we can&#39;t apply standard confidence interval methodology (independence assumption fails) the probabilities are too close to definitively say our model fails Equal Opportunity. Additionally, the GNN made very few misclassifications, which in combination with the low proportion of non-majority white counties leads to very small sample sizes. Therefore we can conclude that the GNN is relatively fair if race is our protected attribute.
 
-**VI. Future Work and Conclusion**
+### VI. Future Work and Conclusion
 
 At the moment, we would not be willing to use our results in production. This is because there are a few things we could still do to further improve our models and eliminate potential bias, as explained below.
 
@@ -174,7 +174,7 @@ Firstly, while we did some feature selection among the given features, there is 
 
 In conclusion, our models produce predictions with accuracies of at least 90%, with our best model being graph neural networks. From our visualizations, we see that our models predict many of the swing counties correctly, including both Democratic and Republic swing counties. However, it is important to note that while our models are relatively fair with race as our protected attribute, they still may include biases and could be used in a way that warrants serious ethical considerations. Once we eliminate such risks and additionally improve our models in the way stated above, these results could be beneficial for political campaigns who would like to know which counties to target for advertising.
 
-**A. Appendix**
+### A. Appendix
 
 Residual Correlation in Graph Neural Network Regression. Junteng Jia and Austin R. Benson.
 
