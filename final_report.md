@@ -107,7 +107,7 @@ In addition to controlling the complexity of the tree as the previous model, we 
   <img src="final_images/image1.png" width="400"/>
 </p>
 
-We train an explainable boosting machine (EBM) on our dataset to get a more intuitive understanding of our data and model as well as its shortcomings. Firstly, we noticed that overall, the voting patterns from 2012 seem to provide the most explanatory power for our model; this makes sense, since only a fraction of the counties are swing counties. ![](RackMultipart20201214-4-12nr8tj_html_eb5fb5497756adde.png)
+We train an explainable boosting machine (EBM) on our dataset to get a more intuitive understanding of our data and model as well as its shortcomings. Firstly, we noticed that overall, the voting patterns from 2012 seem to provide the most explanatory power for our model; this makes sense, since only a fraction of the counties are swing counties.
 
 Additionally, the EBM seems to perform equally as well as gradient boost, with an equivalent AUC as shown. This supports what we learned in class, where EBMs were said to have performance equal to ensemble methods such as bagging and boosting.
 
