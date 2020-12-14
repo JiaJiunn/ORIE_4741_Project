@@ -10,7 +10,7 @@ On any campaign, it is vital to strategically allocate resources to ensure a vic
 
 Our data is split into three separate files. The first two, _county\_data\_2012.csv_ and _county\_data\_2016.csv_, are simply the demographic info of all counties from the 2012 and 2016 presidential elections. The columns of this dataset are: County, Democratic votes (DEM), Republican votes (GOP), Median Income, Migration Rate, Birth Rate, Death Rate, Bachelor Rate (% with bachelor&#39;s degree), and Unemployment Rate. Some extra preprocessing was done such that only counties eligible to vote are included, leaving us with 3143 counties overall. These data were also merged with county geodata such as county latitude, longitude, primary city, and estimated population. It is important to note that after preprocessing, 73 counties had missing electoral information - this could be a source of bias. We use the geocoded data to reconstruct an &quot;election map&quot; below.
 
-<p float="left">
+<p align="center">
   <img src="final_images/image11.png" width="400"/>
   <img src="final_images/image7.png" width="400"/>
 </p>
@@ -23,19 +23,19 @@ For some initial data visualizations, we decided to focus on the 2016 dataset (s
 
 There are a few notable differences in the visualizations. In the Median Income and Bachelor Rate histograms, we can see that the mean of the South region is slightly lower than the rest of the regions. In the Migration Rate histogram, the West region has a slightly higher migration rate compared to the other regions. In the Birth and Death Rate histograms, the Northeast region is slightly lower than the rest of the regions. Overall, most of the histograms didn&#39;t have significant differences among regions.
 
-<p float="left">
+<p align="center">
   <img src="final_images/image9.png" width="400"/>
   <img src="final_images/image10.png" width="400"/>
 </p>
 
-<p float="left">
+<p align="center">
   <img src="final_images/image13.png" width="400"/>
   <img src="final_images/image18.png" width="400"/>
 </p>
 
 In another attempt to further understand our data, we created box plots for demographic information split on which party the county&#39;s majority voted for. Among our features, we only found Bachelor&#39;s Rate and Death Rate to be significantly different, as shown below.
 
-<p float="left">
+<p align="center">
   <img src="final_images/image16.png" width="400"/>
   <img src="final_images/image8.png" width="400"/>
 </p>
@@ -74,7 +74,7 @@ Lastly, we wanted to see if using temporal data would help with our model perfor
 
 We now analyze the failures of our model: although the final test accuracy increased slightly, the weighted accuracy had little change. Based on the confusion matrix, we noticed that the model without temporal data performs terribly on republican states, as it makes 48 false positives (and only 6 false negatives). Incorporating the temporal data managed to reduce the false positives down to 13, but increased the false negatives up to 18 misclassifications. We deduce that this might be due to the kNNs not being able to fit the complex data sufficiently, thus opted for a more complex approach next. We also plotted the following ROC curve, which has an AUC of 97.41%, with the purpose of comparing with future models. 
 
-<p float="left">
+<p align="center">
   <img src="final_images/image5.png" width="400"/>
   <img src="final_images/image2.png" width="400"/>
 </p>
@@ -91,7 +91,7 @@ As introduced in section 5, classification trees seem to be a good alternative f
 
 However, compared to kNNs, we only obtained a slightly higher accuracy of 95.24%, and weighted test accuracy of 89.79%. The confusion matrix shows that the number of false positives and false negatives only reduced by one each, but due to the stochastic nature of our splits, the decision trees occasionally perform the same as our kNN as well. The ROC curve, with an AUC of 97.03%, is similar to that from the kNNs. Therefore, we decided to try and improve specifically upon the consistent misclassifications of our model via boosting.
 
-<p float="left">
+<p align="center">
   <img src="final_images/image14.png" width="400"/>
   <img src="final_images/image2.png" width="400"/>
 </p>
@@ -102,7 +102,7 @@ After creating our map, our model shows an 89.83% weighted accuracy for predicti
 
 In addition to controlling the complexity of the tree as the previous model, we now also fine tune the number of estimators used by gradient boost. After doing grid search on the parameters, we managed to obtain a slight increase in test and weighted test accuracy of around 0.5%. We also see a very slight improvement in the ROC curve, which now has an AUC of 98.24%. From the confusion matrix, it seems that we managed to again reduce the false positives and false negatives by around 1 or 2; however, we decided that the black-box nature of ensemble models is somewhat troublesome to troubleshoot for problems with our approach, and also tried a more glass-box approach.
 
-<p float="left">
+<p align="center">
   <img src="final_images/image12.png" width="400"/>
   <img src="final_images/image1.png" width="400"/>
 </p>
@@ -111,7 +111,7 @@ We train an explainable boosting machine (EBM) on our dataset to get a more intu
 
 Additionally, the EBM seems to perform equally as well as gradient boost, with an equivalent AUC as shown. This supports what we learned in class, where EBMs were said to have performance equal to ensemble methods such as bagging and boosting.
 
-<p float="left">
+<p align="center">
   <img src="final_images/image3.png" width="400"/>
   <img src="final_images/image2.png" width="400"/>
 </p>
@@ -128,7 +128,7 @@ Lastly, we opted to use a graph neural network for fitting the data. A brief ove
 
 To prevent overfitting, we closely monitored the training and validation errors as the model trained, and restricted our model complexity based on the difference between the train and validation accuracies during training. We ended up with a model with a single hidden layer of 6 nodes, and used rather aggressive dropout layers to reduce overfitting the training data. This network managed to obtain a slightly lower test accuracy of 93.87%, but higher weighted test accuracy of 94.08%, which is the highest weighted accuracy so far. The improved weighted accuracy is likely from our loss function construction, where we used a loss with weights on each class (DEM/GOP) based on their respective inverted frequencies. We also obtained a rather similar ROC curve as the EBMs, with an AUC of 98.94%, since we traded off the general test accuracy for a higher weighted test accuracy. 
 
-<p float="left">
+<p align="center">
   <img src="final_images/image6.png" width="400"/>
   <img src="final_images/image2.png" width="400"/>
 </p>
