@@ -1,3 +1,3 @@
-# ORIE 4741 Project
+# Swing County Prediction
 
 Analyzing and predicting swing counties using dataset collected by Professor Austin Benson.
