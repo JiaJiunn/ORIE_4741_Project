@@ -1,4 +1,4 @@
-**ORIE 4741 FINAL REPORT**
+## ORIE 4741 FINAL REPORT
 
 Christopher Archer (caa234), Zoe Pan (zp45), Jia Jiunn Ang (ja497)
 
